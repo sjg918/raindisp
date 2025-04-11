@@ -1,6 +1,6 @@
-from .UL_Stereo_v1 import UL_Stereo_v1
+from .PW_Stereo_v3 import PointWiseStereo_v3
 from .loss import model_loss_train, model_loss_test
 
 __models__ = {
-    "UL_Stereo_v1": UL_Stereo_v1,
+    "PW_Stereo_v3": PointWiseStereo_v3,
 }
