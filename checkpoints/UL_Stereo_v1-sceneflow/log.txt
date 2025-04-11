@@ -1,0 +1,79 @@
+-start-	2024-07-08 13:06:45
+
+0/25 losses: 8.47573 	2024-07-08 14:29:12
+avg test scalars :: (loss 5.47707) (D1 0.19026) (EPE 5.73603) (meantime 0.10140)
+MAX epoch 0 total test error = 0.19026	2024-07-08 14:37:14
+1/25 losses: 8.46026 	2024-07-08 16:00:13
+avg test scalars :: (loss 6.26433) (D1 0.21172) (EPE 6.52877) (meantime 0.10125)
+MAX epoch 0 total test error = 0.19026	2024-07-08 16:08:14
+2/25 losses: 8.45013 	2024-07-08 17:31:14
+avg test scalars :: (loss 5.76612) (D1 0.19892) (EPE 6.02231) (meantime 0.10125)
+MAX epoch 0 total test error = 0.19026	2024-07-08 17:39:15
+3/25 losses: 8.48137 	2024-07-08 19:02:14
+avg test scalars :: (loss 5.60809) (D1 0.19159) (EPE 5.86164) (meantime 0.10126)
+MAX epoch 0 total test error = 0.19026	2024-07-08 19:10:15
+4/25 losses: 8.38367 	2024-07-08 20:33:16
+avg test scalars :: (loss 5.68521) (D1 0.19525) (EPE 5.94848) (meantime 0.10123)
+MAX epoch 0 total test error = 0.19026	2024-07-08 20:41:17
+5/25 losses: 8.34230 	2024-07-08 22:04:18
+avg test scalars :: (loss 5.66035) (D1 0.19327) (EPE 5.91552) (meantime 0.10127)
+MAX epoch 0 total test error = 0.19026	2024-07-08 22:12:19
+6/25 losses: 8.27648 	2024-07-08 23:35:20
+avg test scalars :: (loss 5.63281) (D1 0.19299) (EPE 5.88763) (meantime 0.10143)
+MAX epoch 0 total test error = 0.19026	2024-07-08 23:43:22
+7/25 losses: 8.23762 	2024-07-09 01:06:34
+avg test scalars :: (loss 5.69972) (D1 0.19028) (EPE 5.96588) (meantime 0.10168)
+MAX epoch 0 total test error = 0.19026	2024-07-09 01:14:37
+8/25 losses: 8.28406 	2024-07-09 02:37:50
+avg test scalars :: (loss 6.23324) (D1 0.21221) (EPE 6.49803) (meantime 0.10166)
+MAX epoch 0 total test error = 0.19026	2024-07-09 02:45:54
+9/25 losses: 8.25930 	2024-07-09 04:09:08
+avg test scalars :: (loss 5.69107) (D1 0.19767) (EPE 5.94472) (meantime 0.10168)
+MAX epoch 0 total test error = 0.19026	2024-07-09 04:17:11
+10/25 losses: 8.24340 	2024-07-09 05:40:25
+avg test scalars :: (loss 5.53045) (D1 0.19134) (EPE 5.77959) (meantime 0.10170)
+MAX epoch 0 total test error = 0.19026	2024-07-09 05:48:28
+11/25 losses: 8.18509 	2024-07-09 07:11:42
+avg test scalars :: (loss 5.39021) (D1 0.19257) (EPE 5.64601) (meantime 0.10171)
+MAX epoch 0 total test error = 0.19026	2024-07-09 07:19:45
+12/25 losses: 7.87928 	2024-07-09 08:42:59
+avg test scalars :: (loss 4.99224) (D1 0.18181) (EPE 5.24578) (meantime 0.10172)
+MAX epoch 12 total test error = 0.18181	2024-07-09 08:51:03
+13/25 losses: 7.83164 	2024-07-09 10:14:18
+avg test scalars :: (loss 5.01095) (D1 0.18082) (EPE 5.25762) (meantime 0.10171)
+MAX epoch 13 total test error = 0.18082	2024-07-09 10:22:21
+14/25 losses: 7.77459 	2024-07-09 11:45:32
+avg test scalars :: (loss 5.05734) (D1 0.18141) (EPE 5.30578) (meantime 0.10126)
+MAX epoch 13 total test error = 0.18082	2024-07-09 11:53:33
+15/25 losses: 7.74674 	2024-07-09 13:16:43
+avg test scalars :: (loss 4.84556) (D1 0.17706) (EPE 5.09219) (meantime 0.10126)
+MAX epoch 15 total test error = 0.17706	2024-07-09 13:24:45
+16/25 losses: 7.74863 	2024-07-09 14:47:48
+avg test scalars :: (loss 4.87933) (D1 0.17891) (EPE 5.12365) (meantime 0.10154)
+MAX epoch 15 total test error = 0.17706	2024-07-09 14:55:51
+17/25 losses: 7.73988 	2024-07-09 16:19:00
+avg test scalars :: (loss 5.03802) (D1 0.17890) (EPE 5.28356) (meantime 0.10126)
+MAX epoch 15 total test error = 0.17706	2024-07-09 16:27:01
+18/25 losses: 7.59302 	2024-07-09 17:49:56
+avg test scalars :: (loss 4.69148) (D1 0.17387) (EPE 4.93426) (meantime 0.10124)
+MAX epoch 18 total test error = 0.17387	2024-07-09 17:57:57
+19/25 losses: 7.52903 	2024-07-09 19:20:51
+avg test scalars :: (loss 4.86245) (D1 0.17761) (EPE 5.11012) (meantime 0.10119)
+MAX epoch 18 total test error = 0.17387	2024-07-09 19:28:52
+20/25 losses: 7.50586 	2024-07-09 20:51:46
+avg test scalars :: (loss 4.85028) (D1 0.17507) (EPE 5.09101) (meantime 0.10136)
+MAX epoch 18 total test error = 0.17387	2024-07-09 20:59:48
+21/25 losses: 7.39695 	2024-07-09 22:22:51
+avg test scalars :: (loss 4.75243) (D1 0.17237) (EPE 4.99315) (meantime 0.10134)
+MAX epoch 21 total test error = 0.17237	2024-07-09 22:30:52
+22/25 losses: 7.37234 	2024-07-09 23:53:55
+avg test scalars :: (loss 4.76146) (D1 0.17381) (EPE 5.00743) (meantime 0.10138)
+MAX epoch 21 total test error = 0.17237	2024-07-10 00:01:56
+23/25 losses: 7.33760 	2024-07-10 01:25:01
+avg test scalars :: (loss 4.61715) (D1 0.17075) (EPE 4.85660) (meantime 0.10152)
+MAX epoch 23 total test error = 0.17075	2024-07-10 01:33:04
+24/25 losses: 7.35253 	2024-07-10 02:56:11
+avg test scalars :: (loss 4.55613) (D1 0.16912) (EPE 4.79557) (meantime 0.10156)
+MAX epoch 24 total test error = 0.16912	2024-07-10 03:04:13
+MAX epoch 24 total test error = 0.16912 
+-end-	2024-07-10 03:04:13
