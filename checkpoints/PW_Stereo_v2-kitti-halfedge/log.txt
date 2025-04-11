@@ -1,0 +1,1804 @@
+-start-	2024-03-02 18:13:53
+
+0/600 losses: 9.31615 	2024-03-02 18:14:03
+avg test scalars :: (loss 7.04740) (D1 0.34476) (EPE 7.46080) (meantime 0.02403)
+MAX epoch 0 total test error = 0.34476	2024-03-02 18:14:04
+1/600 losses: 9.14069 	2024-03-02 18:14:14
+avg test scalars :: (loss 7.31026) (D1 0.28680) (EPE 7.70615) (meantime 0.01885)
+MAX epoch 1 total test error = 0.28680	2024-03-02 18:14:15
+2/600 losses: 9.59554 	2024-03-02 18:14:24
+avg test scalars :: (loss 6.13903) (D1 0.26921) (EPE 6.54402) (meantime 0.02123)
+MAX epoch 2 total test error = 0.26921	2024-03-02 18:14:25
+3/600 losses: 9.44472 	2024-03-02 18:14:34
+avg test scalars :: (loss 6.28975) (D1 0.29674) (EPE 6.69928) (meantime 0.02052)
+MAX epoch 2 total test error = 0.26921	2024-03-02 18:14:35
+4/600 losses: 9.14137 	2024-03-02 18:14:44
+avg test scalars :: (loss 6.42237) (D1 0.29822) (EPE 6.84180) (meantime 0.01911)
+MAX epoch 2 total test error = 0.26921	2024-03-02 18:14:45
+5/600 losses: 9.00711 	2024-03-02 18:14:55
+avg test scalars :: (loss 5.94835) (D1 0.24625) (EPE 6.37400) (meantime 0.01841)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:14:56
+6/600 losses: 8.90701 	2024-03-02 18:15:05
+avg test scalars :: (loss 6.24937) (D1 0.25708) (EPE 6.64864) (meantime 0.01833)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:06
+7/600 losses: 9.33780 	2024-03-02 18:15:15
+avg test scalars :: (loss 6.58736) (D1 0.34946) (EPE 7.01949) (meantime 0.01893)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:16
+8/600 losses: 9.37519 	2024-03-02 18:15:26
+avg test scalars :: (loss 5.61145) (D1 0.27561) (EPE 6.01775) (meantime 0.01953)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:27
+9/600 losses: 9.24299 	2024-03-02 18:15:36
+avg test scalars :: (loss 6.25131) (D1 0.30931) (EPE 6.67033) (meantime 0.01904)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:37
+10/600 losses: 9.25748 	2024-03-02 18:15:46
+avg test scalars :: (loss 7.44133) (D1 0.32395) (EPE 7.85216) (meantime 0.01536)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:47
+11/600 losses: 9.35544 	2024-03-02 18:15:56
+avg test scalars :: (loss 4.53547) (D1 0.25243) (EPE 4.94335) (meantime 0.01512)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:15:57
+12/600 losses: 9.02049 	2024-03-02 18:16:07
+avg test scalars :: (loss 5.92179) (D1 0.28730) (EPE 6.32961) (meantime 0.01470)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:16:07
+13/600 losses: 9.48659 	2024-03-02 18:16:17
+avg test scalars :: (loss 8.30766) (D1 0.47101) (EPE 8.77429) (meantime 0.01551)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:16:18
+14/600 losses: 9.77475 	2024-03-02 18:16:27
+avg test scalars :: (loss 7.04159) (D1 0.30778) (EPE 7.44330) (meantime 0.01625)
+MAX epoch 5 total test error = 0.24625	2024-03-02 18:16:28
+15/600 losses: 9.81019 	2024-03-02 18:16:37
+avg test scalars :: (loss 4.85470) (D1 0.24588) (EPE 5.26543) (meantime 0.01587)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:16:38
+16/600 losses: 9.83289 	2024-03-02 18:16:48
+avg test scalars :: (loss 7.31900) (D1 0.31890) (EPE 7.72399) (meantime 0.01380)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:16:48
+17/600 losses: 10.21279 	2024-03-02 18:16:58
+avg test scalars :: (loss 7.83248) (D1 0.39108) (EPE 8.26113) (meantime 0.01400)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:16:58
+18/600 losses: 9.38650 	2024-03-02 18:17:08
+avg test scalars :: (loss 7.06355) (D1 0.31853) (EPE 7.49104) (meantime 0.01639)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:09
+19/600 losses: 9.02789 	2024-03-02 18:17:18
+avg test scalars :: (loss 6.54671) (D1 0.32350) (EPE 6.96986) (meantime 0.01504)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:19
+20/600 losses: 8.94854 	2024-03-02 18:17:28
+avg test scalars :: (loss 5.97347) (D1 0.28299) (EPE 6.38906) (meantime 0.01753)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:29
+21/600 losses: 9.00398 	2024-03-02 18:17:38
+avg test scalars :: (loss 6.49979) (D1 0.36140) (EPE 6.94905) (meantime 0.01566)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:39
+22/600 losses: 9.13588 	2024-03-02 18:17:48
+avg test scalars :: (loss 8.25321) (D1 0.35336) (EPE 8.68263) (meantime 0.01560)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:49
+23/600 losses: 8.88366 	2024-03-02 18:17:58
+avg test scalars :: (loss 5.85373) (D1 0.28220) (EPE 6.27863) (meantime 0.01506)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:17:59
+24/600 losses: 9.83599 	2024-03-02 18:18:09
+avg test scalars :: (loss 6.14474) (D1 0.26290) (EPE 6.54904) (meantime 0.01526)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:18:09
+25/600 losses: 8.86565 	2024-03-02 18:18:19
+avg test scalars :: (loss 5.69408) (D1 0.30253) (EPE 6.09549) (meantime 0.01618)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:18:20
+26/600 losses: 9.14734 	2024-03-02 18:18:29
+avg test scalars :: (loss 6.14467) (D1 0.25928) (EPE 6.56000) (meantime 0.01682)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:18:30
+27/600 losses: 9.00163 	2024-03-02 18:18:39
+avg test scalars :: (loss 6.13090) (D1 0.28704) (EPE 6.53580) (meantime 0.01707)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:18:40
+28/600 losses: 9.11130 	2024-03-02 18:18:49
+avg test scalars :: (loss 7.65353) (D1 0.34312) (EPE 8.07261) (meantime 0.01611)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:18:50
+29/600 losses: 9.29426 	2024-03-02 18:19:00
+avg test scalars :: (loss 5.90299) (D1 0.27540) (EPE 6.31014) (meantime 0.01496)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:00
+30/600 losses: 9.57804 	2024-03-02 18:19:10
+avg test scalars :: (loss 5.16434) (D1 0.25251) (EPE 5.57775) (meantime 0.01647)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:11
+31/600 losses: 8.97458 	2024-03-02 18:19:20
+avg test scalars :: (loss 7.14297) (D1 0.32662) (EPE 7.56402) (meantime 0.01551)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:21
+32/600 losses: 8.87763 	2024-03-02 18:19:30
+avg test scalars :: (loss 6.36031) (D1 0.26942) (EPE 6.75199) (meantime 0.01538)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:31
+33/600 losses: 9.22535 	2024-03-02 18:19:40
+avg test scalars :: (loss 6.31821) (D1 0.29502) (EPE 6.72612) (meantime 0.01493)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:41
+34/600 losses: 9.50526 	2024-03-02 18:19:51
+avg test scalars :: (loss 5.45508) (D1 0.28320) (EPE 5.86553) (meantime 0.01506)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:19:51
+35/600 losses: 9.05716 	2024-03-02 18:20:01
+avg test scalars :: (loss 9.20997) (D1 0.37206) (EPE 9.62651) (meantime 0.01670)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:02
+36/600 losses: 9.01841 	2024-03-02 18:20:11
+avg test scalars :: (loss 7.61003) (D1 0.28613) (EPE 8.01537) (meantime 0.01648)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:12
+37/600 losses: 9.33142 	2024-03-02 18:20:21
+avg test scalars :: (loss 5.48179) (D1 0.28752) (EPE 5.88847) (meantime 0.01893)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:22
+38/600 losses: 8.65869 	2024-03-02 18:20:31
+avg test scalars :: (loss 7.40903) (D1 0.31114) (EPE 7.82569) (meantime 0.01917)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:32
+39/600 losses: 9.40381 	2024-03-02 18:20:42
+avg test scalars :: (loss 8.34945) (D1 0.35493) (EPE 8.76075) (meantime 0.01550)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:43
+40/600 losses: 8.98289 	2024-03-02 18:20:52
+avg test scalars :: (loss 6.88928) (D1 0.34940) (EPE 7.31229) (meantime 0.01581)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:20:53
+41/600 losses: 8.85917 	2024-03-02 18:21:03
+avg test scalars :: (loss 6.06106) (D1 0.27093) (EPE 6.48273) (meantime 0.01452)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:03
+42/600 losses: 8.65142 	2024-03-02 18:21:13
+avg test scalars :: (loss 6.51882) (D1 0.31612) (EPE 6.93965) (meantime 0.01392)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:13
+43/600 losses: 9.53957 	2024-03-02 18:21:23
+avg test scalars :: (loss 5.76082) (D1 0.27129) (EPE 6.16452) (meantime 0.01605)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:23
+44/600 losses: 8.97252 	2024-03-02 18:21:33
+avg test scalars :: (loss 7.26303) (D1 0.30559) (EPE 7.67392) (meantime 0.01486)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:34
+45/600 losses: 8.89694 	2024-03-02 18:21:43
+avg test scalars :: (loss 6.71810) (D1 0.32866) (EPE 7.13578) (meantime 0.01635)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:44
+46/600 losses: 10.11609 	2024-03-02 18:21:53
+avg test scalars :: (loss 6.25518) (D1 0.31026) (EPE 6.67068) (meantime 0.01544)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:21:54
+47/600 losses: 9.43875 	2024-03-02 18:22:03
+avg test scalars :: (loss 6.76488) (D1 0.28633) (EPE 7.16541) (meantime 0.01570)
+MAX epoch 15 total test error = 0.24588	2024-03-02 18:22:04
+48/600 losses: 9.19150 	2024-03-02 18:22:13
+avg test scalars :: (loss 4.80729) (D1 0.22807) (EPE 5.21993) (meantime 0.01635)
+MAX epoch 48 total test error = 0.22807	2024-03-02 18:22:14
+49/600 losses: 8.67913 	2024-03-02 18:22:24
+avg test scalars :: (loss 7.71817) (D1 0.33862) (EPE 8.12182) (meantime 0.01610)
+MAX epoch 48 total test error = 0.22807	2024-03-02 18:22:25
+50/600 losses: 9.16335 	2024-03-02 18:22:34
+avg test scalars :: (loss 6.71494) (D1 0.29712) (EPE 7.12989) (meantime 0.01705)
+MAX epoch 48 total test error = 0.22807	2024-03-02 18:22:35
+51/600 losses: 8.54037 	2024-03-02 18:22:44
+avg test scalars :: (loss 4.76639) (D1 0.21543) (EPE 5.16730) (meantime 0.01443)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:22:45
+52/600 losses: 8.55301 	2024-03-02 18:22:54
+avg test scalars :: (loss 5.00682) (D1 0.24581) (EPE 5.40907) (meantime 0.01575)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:22:55
+53/600 losses: 8.76603 	2024-03-02 18:23:04
+avg test scalars :: (loss 6.80844) (D1 0.31199) (EPE 7.21581) (meantime 0.01645)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:05
+54/600 losses: 8.97006 	2024-03-02 18:23:14
+avg test scalars :: (loss 7.20611) (D1 0.33079) (EPE 7.62709) (meantime 0.01430)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:15
+55/600 losses: 8.75752 	2024-03-02 18:23:24
+avg test scalars :: (loss 5.82746) (D1 0.25933) (EPE 6.23018) (meantime 0.01876)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:25
+56/600 losses: 8.85026 	2024-03-02 18:23:35
+avg test scalars :: (loss 5.88834) (D1 0.29537) (EPE 6.29680) (meantime 0.01570)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:36
+57/600 losses: 8.84374 	2024-03-02 18:23:45
+avg test scalars :: (loss 5.65481) (D1 0.24531) (EPE 6.04875) (meantime 0.01509)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:46
+58/600 losses: 9.09424 	2024-03-02 18:23:55
+avg test scalars :: (loss 6.33846) (D1 0.30299) (EPE 6.75726) (meantime 0.01501)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:23:56
+59/600 losses: 9.16544 	2024-03-02 18:24:06
+avg test scalars :: (loss 7.72202) (D1 0.32427) (EPE 8.13166) (meantime 0.01387)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:06
+60/600 losses: 9.14236 	2024-03-02 18:24:16
+avg test scalars :: (loss 6.31759) (D1 0.30156) (EPE 6.72873) (meantime 0.01478)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:16
+61/600 losses: 9.32030 	2024-03-02 18:24:25
+avg test scalars :: (loss 7.07460) (D1 0.30841) (EPE 7.48157) (meantime 0.01593)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:26
+62/600 losses: 8.82559 	2024-03-02 18:24:36
+avg test scalars :: (loss 8.24339) (D1 0.38121) (EPE 8.64671) (meantime 0.01459)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:36
+63/600 losses: 9.11992 	2024-03-02 18:24:46
+avg test scalars :: (loss 7.21762) (D1 0.29064) (EPE 7.64333) (meantime 0.01592)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:46
+64/600 losses: 9.27043 	2024-03-02 18:24:56
+avg test scalars :: (loss 6.04298) (D1 0.27364) (EPE 6.45393) (meantime 0.01467)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:24:56
+65/600 losses: 8.98150 	2024-03-02 18:25:06
+avg test scalars :: (loss 5.66996) (D1 0.27805) (EPE 6.08848) (meantime 0.01571)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:07
+66/600 losses: 8.79195 	2024-03-02 18:25:16
+avg test scalars :: (loss 6.95086) (D1 0.27299) (EPE 7.36452) (meantime 0.01486)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:17
+67/600 losses: 8.92948 	2024-03-02 18:25:26
+avg test scalars :: (loss 7.12916) (D1 0.32495) (EPE 7.55942) (meantime 0.01466)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:27
+68/600 losses: 8.75049 	2024-03-02 18:25:36
+avg test scalars :: (loss 6.67059) (D1 0.28973) (EPE 7.07872) (meantime 0.01562)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:37
+69/600 losses: 8.71970 	2024-03-02 18:25:46
+avg test scalars :: (loss 7.10566) (D1 0.29500) (EPE 7.51294) (meantime 0.01515)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:47
+70/600 losses: 8.95393 	2024-03-02 18:25:56
+avg test scalars :: (loss 7.85063) (D1 0.30425) (EPE 8.27400) (meantime 0.01980)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:25:57
+71/600 losses: 8.64297 	2024-03-02 18:26:07
+avg test scalars :: (loss 6.54768) (D1 0.27611) (EPE 6.95362) (meantime 0.01486)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:07
+72/600 losses: 8.85188 	2024-03-02 18:26:17
+avg test scalars :: (loss 7.21047) (D1 0.27856) (EPE 7.61955) (meantime 0.01659)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:18
+73/600 losses: 9.10544 	2024-03-02 18:26:27
+avg test scalars :: (loss 7.57560) (D1 0.32356) (EPE 7.97991) (meantime 0.01443)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:28
+74/600 losses: 9.22554 	2024-03-02 18:26:37
+avg test scalars :: (loss 6.28648) (D1 0.27511) (EPE 6.68872) (meantime 0.01467)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:38
+75/600 losses: 8.88277 	2024-03-02 18:26:47
+avg test scalars :: (loss 5.67915) (D1 0.25158) (EPE 6.10225) (meantime 0.01659)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:48
+76/600 losses: 9.51825 	2024-03-02 18:26:57
+avg test scalars :: (loss 6.21822) (D1 0.26185) (EPE 6.60637) (meantime 0.01545)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:26:58
+77/600 losses: 8.69065 	2024-03-02 18:27:08
+avg test scalars :: (loss 5.18395) (D1 0.22267) (EPE 5.57815) (meantime 0.01663)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:08
+78/600 losses: 9.68031 	2024-03-02 18:27:18
+avg test scalars :: (loss 9.61228) (D1 0.36595) (EPE 10.01745) (meantime 0.01501)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:19
+79/600 losses: 9.33957 	2024-03-02 18:27:28
+avg test scalars :: (loss 5.76467) (D1 0.27828) (EPE 6.17590) (meantime 0.01573)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:29
+80/600 losses: 10.59456 	2024-03-02 18:27:38
+avg test scalars :: (loss 6.86247) (D1 0.32101) (EPE 7.28353) (meantime 0.01611)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:39
+81/600 losses: 9.26992 	2024-03-02 18:27:48
+avg test scalars :: (loss 8.09711) (D1 0.33856) (EPE 8.49950) (meantime 0.01561)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:49
+82/600 losses: 9.09652 	2024-03-02 18:27:58
+avg test scalars :: (loss 6.67306) (D1 0.28989) (EPE 7.08028) (meantime 0.01498)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:27:59
+83/600 losses: 9.30896 	2024-03-02 18:28:08
+avg test scalars :: (loss 7.30531) (D1 0.29749) (EPE 7.70852) (meantime 0.01518)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:28:09
+84/600 losses: 8.97570 	2024-03-02 18:28:18
+avg test scalars :: (loss 5.80580) (D1 0.26772) (EPE 6.21011) (meantime 0.01601)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:28:19
+85/600 losses: 8.95988 	2024-03-02 18:28:29
+avg test scalars :: (loss 5.88383) (D1 0.30016) (EPE 6.29538) (meantime 0.01621)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:28:29
+86/600 losses: 8.80438 	2024-03-02 18:28:39
+avg test scalars :: (loss 6.00843) (D1 0.29034) (EPE 6.41189) (meantime 0.01578)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:28:40
+87/600 losses: 8.66194 	2024-03-02 18:28:49
+avg test scalars :: (loss 6.86172) (D1 0.34617) (EPE 7.26593) (meantime 0.01816)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:28:50
+88/600 losses: 8.89976 	2024-03-02 18:28:59
+avg test scalars :: (loss 5.54759) (D1 0.26188) (EPE 5.95063) (meantime 0.01949)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:00
+89/600 losses: 8.99420 	2024-03-02 18:29:10
+avg test scalars :: (loss 7.16820) (D1 0.29243) (EPE 7.57750) (meantime 0.01588)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:10
+90/600 losses: 8.77348 	2024-03-02 18:29:20
+avg test scalars :: (loss 7.94262) (D1 0.32028) (EPE 8.37988) (meantime 0.01594)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:21
+91/600 losses: 9.13977 	2024-03-02 18:29:30
+avg test scalars :: (loss 6.90789) (D1 0.28568) (EPE 7.30177) (meantime 0.01473)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:31
+92/600 losses: 8.49458 	2024-03-02 18:29:40
+avg test scalars :: (loss 6.98961) (D1 0.31956) (EPE 7.40507) (meantime 0.01612)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:41
+93/600 losses: 8.55931 	2024-03-02 18:29:50
+avg test scalars :: (loss 7.44933) (D1 0.28769) (EPE 7.85397) (meantime 0.01498)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:29:51
+94/600 losses: 8.41030 	2024-03-02 18:30:00
+avg test scalars :: (loss 6.83902) (D1 0.27447) (EPE 7.23445) (meantime 0.01697)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:01
+95/600 losses: 9.15292 	2024-03-02 18:30:11
+avg test scalars :: (loss 6.75758) (D1 0.30083) (EPE 7.16785) (meantime 0.01611)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:11
+96/600 losses: 9.25454 	2024-03-02 18:30:21
+avg test scalars :: (loss 7.04045) (D1 0.30061) (EPE 7.45505) (meantime 0.01638)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:22
+97/600 losses: 8.81683 	2024-03-02 18:30:31
+avg test scalars :: (loss 6.38965) (D1 0.26167) (EPE 6.80140) (meantime 0.01647)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:32
+98/600 losses: 8.94401 	2024-03-02 18:30:41
+avg test scalars :: (loss 6.13012) (D1 0.27231) (EPE 6.53763) (meantime 0.01578)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:42
+99/600 losses: 9.26162 	2024-03-02 18:30:51
+avg test scalars :: (loss 6.76704) (D1 0.30275) (EPE 7.17005) (meantime 0.01587)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:30:52
+100/600 losses: 8.87913 	2024-03-02 18:31:02
+avg test scalars :: (loss 5.86254) (D1 0.30202) (EPE 6.28070) (meantime 0.01462)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:02
+101/600 losses: 9.69017 	2024-03-02 18:31:12
+avg test scalars :: (loss 5.88724) (D1 0.25104) (EPE 6.29727) (meantime 0.01512)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:12
+102/600 losses: 9.22946 	2024-03-02 18:31:22
+avg test scalars :: (loss 5.36118) (D1 0.26673) (EPE 5.77556) (meantime 0.01524)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:23
+103/600 losses: 9.15505 	2024-03-02 18:31:32
+avg test scalars :: (loss 5.49370) (D1 0.24910) (EPE 5.89475) (meantime 0.01641)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:33
+104/600 losses: 8.68335 	2024-03-02 18:31:42
+avg test scalars :: (loss 5.76460) (D1 0.29469) (EPE 6.18687) (meantime 0.01491)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:43
+105/600 losses: 9.08565 	2024-03-02 18:31:52
+avg test scalars :: (loss 6.26623) (D1 0.27803) (EPE 6.66721) (meantime 0.01703)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:31:53
+106/600 losses: 8.65827 	2024-03-02 18:32:02
+avg test scalars :: (loss 8.50372) (D1 0.30043) (EPE 8.91106) (meantime 0.02111)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:03
+107/600 losses: 8.66022 	2024-03-02 18:32:13
+avg test scalars :: (loss 7.63292) (D1 0.31289) (EPE 8.04561) (meantime 0.01556)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:13
+108/600 losses: 8.69499 	2024-03-02 18:32:23
+avg test scalars :: (loss 6.63077) (D1 0.28639) (EPE 7.03445) (meantime 0.01588)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:24
+109/600 losses: 8.61160 	2024-03-02 18:32:33
+avg test scalars :: (loss 6.66657) (D1 0.28848) (EPE 7.08440) (meantime 0.01627)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:34
+110/600 losses: 8.82381 	2024-03-02 18:32:43
+avg test scalars :: (loss 6.39002) (D1 0.28609) (EPE 6.80123) (meantime 0.01398)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:44
+111/600 losses: 9.03937 	2024-03-02 18:32:53
+avg test scalars :: (loss 6.45896) (D1 0.30917) (EPE 6.87955) (meantime 0.01630)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:32:54
+112/600 losses: 8.78087 	2024-03-02 18:33:03
+avg test scalars :: (loss 8.52344) (D1 0.30077) (EPE 8.92553) (meantime 0.01624)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:04
+113/600 losses: 9.16136 	2024-03-02 18:33:13
+avg test scalars :: (loss 7.00208) (D1 0.27020) (EPE 7.39979) (meantime 0.01515)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:14
+114/600 losses: 8.96472 	2024-03-02 18:33:24
+avg test scalars :: (loss 7.27911) (D1 0.31701) (EPE 7.68794) (meantime 0.01459)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:24
+115/600 losses: 8.71362 	2024-03-02 18:33:34
+avg test scalars :: (loss 5.93912) (D1 0.25903) (EPE 6.33479) (meantime 0.01676)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:35
+116/600 losses: 9.12451 	2024-03-02 18:33:44
+avg test scalars :: (loss 5.31904) (D1 0.25723) (EPE 5.73056) (meantime 0.01502)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:45
+117/600 losses: 8.94436 	2024-03-02 18:33:54
+avg test scalars :: (loss 5.54881) (D1 0.23094) (EPE 5.95059) (meantime 0.01567)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:33:55
+118/600 losses: 8.45299 	2024-03-02 18:34:04
+avg test scalars :: (loss 6.18828) (D1 0.30097) (EPE 6.58776) (meantime 0.01494)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:05
+119/600 losses: 9.12946 	2024-03-02 18:34:14
+avg test scalars :: (loss 5.14671) (D1 0.26724) (EPE 5.56240) (meantime 0.01474)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:15
+120/600 losses: 8.92782 	2024-03-02 18:34:24
+avg test scalars :: (loss 5.10501) (D1 0.24992) (EPE 5.50657) (meantime 0.01612)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:25
+121/600 losses: 8.63650 	2024-03-02 18:34:34
+avg test scalars :: (loss 6.49930) (D1 0.26188) (EPE 6.90978) (meantime 0.01596)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:35
+122/600 losses: 8.92013 	2024-03-02 18:34:45
+avg test scalars :: (loss 6.97062) (D1 0.29699) (EPE 7.37143) (meantime 0.01448)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:45
+123/600 losses: 8.95462 	2024-03-02 18:34:55
+avg test scalars :: (loss 7.34588) (D1 0.30628) (EPE 7.74427) (meantime 0.01534)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:34:56
+124/600 losses: 8.88535 	2024-03-02 18:35:05
+avg test scalars :: (loss 6.46762) (D1 0.27176) (EPE 6.87238) (meantime 0.01830)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:06
+125/600 losses: 8.83763 	2024-03-02 18:35:15
+avg test scalars :: (loss 5.62511) (D1 0.26593) (EPE 6.01231) (meantime 0.01767)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:16
+126/600 losses: 8.96551 	2024-03-02 18:35:26
+avg test scalars :: (loss 5.58486) (D1 0.25840) (EPE 5.99782) (meantime 0.01850)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:26
+127/600 losses: 8.85376 	2024-03-02 18:35:36
+avg test scalars :: (loss 5.99457) (D1 0.27316) (EPE 6.41057) (meantime 0.01517)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:37
+128/600 losses: 8.60274 	2024-03-02 18:35:46
+avg test scalars :: (loss 6.36269) (D1 0.25426) (EPE 6.77632) (meantime 0.01491)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:47
+129/600 losses: 8.75401 	2024-03-02 18:35:56
+avg test scalars :: (loss 7.25162) (D1 0.32928) (EPE 7.66759) (meantime 0.01689)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:35:57
+130/600 losses: 8.62607 	2024-03-02 18:36:07
+avg test scalars :: (loss 8.25307) (D1 0.33194) (EPE 8.67270) (meantime 0.01422)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:08
+131/600 losses: 8.70468 	2024-03-02 18:36:17
+avg test scalars :: (loss 5.08172) (D1 0.24641) (EPE 5.48550) (meantime 0.01432)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:18
+132/600 losses: 8.70079 	2024-03-02 18:36:27
+avg test scalars :: (loss 5.89020) (D1 0.26676) (EPE 6.30816) (meantime 0.01518)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:28
+133/600 losses: 9.05386 	2024-03-02 18:36:37
+avg test scalars :: (loss 7.42769) (D1 0.27870) (EPE 7.83912) (meantime 0.01659)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:38
+134/600 losses: 9.38313 	2024-03-02 18:36:47
+avg test scalars :: (loss 6.77916) (D1 0.30769) (EPE 7.19218) (meantime 0.01595)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:48
+135/600 losses: 9.84169 	2024-03-02 18:36:57
+avg test scalars :: (loss 5.21795) (D1 0.24478) (EPE 5.63120) (meantime 0.01632)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:36:58
+136/600 losses: 8.77447 	2024-03-02 18:37:07
+avg test scalars :: (loss 5.35078) (D1 0.25575) (EPE 5.76982) (meantime 0.01490)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:08
+137/600 losses: 9.12622 	2024-03-02 18:37:18
+avg test scalars :: (loss 5.43611) (D1 0.23991) (EPE 5.85132) (meantime 0.01663)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:18
+138/600 losses: 8.89821 	2024-03-02 18:37:28
+avg test scalars :: (loss 6.56180) (D1 0.29771) (EPE 6.97657) (meantime 0.01450)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:29
+139/600 losses: 8.81157 	2024-03-02 18:37:38
+avg test scalars :: (loss 7.68768) (D1 0.29352) (EPE 8.10505) (meantime 0.01744)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:39
+140/600 losses: 8.95610 	2024-03-02 18:37:48
+avg test scalars :: (loss 8.28795) (D1 0.33242) (EPE 8.69916) (meantime 0.01506)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:49
+141/600 losses: 8.74679 	2024-03-02 18:37:58
+avg test scalars :: (loss 7.72159) (D1 0.30584) (EPE 8.12869) (meantime 0.01451)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:37:59
+142/600 losses: 8.55350 	2024-03-02 18:38:09
+avg test scalars :: (loss 7.50288) (D1 0.35165) (EPE 7.91303) (meantime 0.01463)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:38:09
+143/600 losses: 9.01220 	2024-03-02 18:38:19
+avg test scalars :: (loss 7.16854) (D1 0.29450) (EPE 7.57502) (meantime 0.01525)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:38:20
+144/600 losses: 9.08974 	2024-03-02 18:38:29
+avg test scalars :: (loss 6.63318) (D1 0.27741) (EPE 7.05542) (meantime 0.01563)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:38:30
+145/600 losses: 8.97152 	2024-03-02 18:38:39
+avg test scalars :: (loss 6.46210) (D1 0.26813) (EPE 6.85927) (meantime 0.01597)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:38:40
+146/600 losses: 8.68438 	2024-03-02 18:38:49
+avg test scalars :: (loss 5.52709) (D1 0.26484) (EPE 5.94021) (meantime 0.01802)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:38:50
+147/600 losses: 8.68640 	2024-03-02 18:38:59
+avg test scalars :: (loss 6.21728) (D1 0.27286) (EPE 6.62635) (meantime 0.01954)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:01
+148/600 losses: 8.40332 	2024-03-02 18:39:10
+avg test scalars :: (loss 6.93295) (D1 0.30005) (EPE 7.31465) (meantime 0.01677)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:11
+149/600 losses: 8.45751 	2024-03-02 18:39:20
+avg test scalars :: (loss 6.95751) (D1 0.26766) (EPE 7.35504) (meantime 0.01576)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:21
+150/600 losses: 8.71294 	2024-03-02 18:39:31
+avg test scalars :: (loss 7.00267) (D1 0.29960) (EPE 7.42173) (meantime 0.01644)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:31
+151/600 losses: 9.10129 	2024-03-02 18:39:41
+avg test scalars :: (loss 7.48017) (D1 0.28473) (EPE 7.90271) (meantime 0.01535)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:41
+152/600 losses: 8.69490 	2024-03-02 18:39:51
+avg test scalars :: (loss 7.07928) (D1 0.28812) (EPE 7.50521) (meantime 0.01468)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:39:52
+153/600 losses: 8.61419 	2024-03-02 18:40:01
+avg test scalars :: (loss 6.38567) (D1 0.27372) (EPE 6.76971) (meantime 0.01747)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:02
+154/600 losses: 9.06202 	2024-03-02 18:40:11
+avg test scalars :: (loss 5.73881) (D1 0.24159) (EPE 6.13383) (meantime 0.01705)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:12
+155/600 losses: 8.90434 	2024-03-02 18:40:21
+avg test scalars :: (loss 5.06008) (D1 0.24899) (EPE 5.46133) (meantime 0.01492)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:22
+156/600 losses: 8.86408 	2024-03-02 18:40:31
+avg test scalars :: (loss 5.45714) (D1 0.26071) (EPE 5.86531) (meantime 0.01475)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:32
+157/600 losses: 9.06632 	2024-03-02 18:40:41
+avg test scalars :: (loss 5.14726) (D1 0.23466) (EPE 5.54796) (meantime 0.01536)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:42
+158/600 losses: 9.02556 	2024-03-02 18:40:51
+avg test scalars :: (loss 7.29467) (D1 0.27816) (EPE 7.70640) (meantime 0.01609)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:40:52
+159/600 losses: 9.13363 	2024-03-02 18:41:02
+avg test scalars :: (loss 5.79796) (D1 0.29167) (EPE 6.19576) (meantime 0.01482)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:41:02
+160/600 losses: 8.72770 	2024-03-02 18:41:12
+avg test scalars :: (loss 8.14480) (D1 0.33798) (EPE 8.55273) (meantime 0.01488)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:41:13
+161/600 losses: 8.93128 	2024-03-02 18:41:22
+avg test scalars :: (loss 7.46216) (D1 0.29475) (EPE 7.87900) (meantime 0.01769)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:41:23
+162/600 losses: 8.96353 	2024-03-02 18:41:32
+avg test scalars :: (loss 6.84752) (D1 0.26050) (EPE 7.27003) (meantime 0.01507)
+MAX epoch 51 total test error = 0.21543	2024-03-02 18:41:33
+163/600 losses: 8.55981 	2024-03-02 18:41:42
+avg test scalars :: (loss 5.75647) (D1 0.21177) (EPE 6.14925) (meantime 0.01528)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:41:43
+164/600 losses: 8.79954 	2024-03-02 18:41:52
+avg test scalars :: (loss 8.90740) (D1 0.34517) (EPE 9.32346) (meantime 0.01580)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:41:53
+165/600 losses: 8.93706 	2024-03-02 18:42:02
+avg test scalars :: (loss 7.22664) (D1 0.27812) (EPE 7.63031) (meantime 0.01824)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:03
+166/600 losses: 8.85934 	2024-03-02 18:42:13
+avg test scalars :: (loss 6.28877) (D1 0.28298) (EPE 6.70335) (meantime 0.01909)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:14
+167/600 losses: 8.66587 	2024-03-02 18:42:23
+avg test scalars :: (loss 6.08737) (D1 0.28075) (EPE 6.47265) (meantime 0.01500)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:24
+168/600 losses: 9.12424 	2024-03-02 18:42:33
+avg test scalars :: (loss 5.67953) (D1 0.28068) (EPE 6.09107) (meantime 0.01603)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:34
+169/600 losses: 8.94601 	2024-03-02 18:42:44
+avg test scalars :: (loss 6.48925) (D1 0.28130) (EPE 6.91621) (meantime 0.01583)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:45
+170/600 losses: 9.14793 	2024-03-02 18:42:54
+avg test scalars :: (loss 7.01077) (D1 0.31507) (EPE 7.41933) (meantime 0.01456)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:42:55
+171/600 losses: 9.02493 	2024-03-02 18:43:04
+avg test scalars :: (loss 6.84857) (D1 0.30700) (EPE 7.27275) (meantime 0.01613)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:05
+172/600 losses: 9.11195 	2024-03-02 18:43:14
+avg test scalars :: (loss 7.47101) (D1 0.31440) (EPE 7.89295) (meantime 0.01712)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:15
+173/600 losses: 8.76852 	2024-03-02 18:43:24
+avg test scalars :: (loss 7.64764) (D1 0.32432) (EPE 8.07258) (meantime 0.01484)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:25
+174/600 losses: 9.27297 	2024-03-02 18:43:34
+avg test scalars :: (loss 8.08615) (D1 0.29837) (EPE 8.50198) (meantime 0.01457)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:35
+175/600 losses: 9.05597 	2024-03-02 18:43:45
+avg test scalars :: (loss 6.44679) (D1 0.31525) (EPE 6.85337) (meantime 0.01575)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:45
+176/600 losses: 8.94042 	2024-03-02 18:43:55
+avg test scalars :: (loss 6.16200) (D1 0.29199) (EPE 6.56555) (meantime 0.01482)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:43:55
+177/600 losses: 8.80120 	2024-03-02 18:44:05
+avg test scalars :: (loss 7.45118) (D1 0.28831) (EPE 7.86881) (meantime 0.01562)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:06
+178/600 losses: 8.70267 	2024-03-02 18:44:15
+avg test scalars :: (loss 6.74143) (D1 0.28855) (EPE 7.15027) (meantime 0.01556)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:16
+179/600 losses: 8.38931 	2024-03-02 18:44:25
+avg test scalars :: (loss 5.31654) (D1 0.29676) (EPE 5.72894) (meantime 0.01638)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:26
+180/600 losses: 8.87500 	2024-03-02 18:44:35
+avg test scalars :: (loss 5.32032) (D1 0.25725) (EPE 5.72185) (meantime 0.01518)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:36
+181/600 losses: 8.71323 	2024-03-02 18:44:45
+avg test scalars :: (loss 6.88455) (D1 0.28748) (EPE 7.29647) (meantime 0.01689)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:46
+182/600 losses: 9.37693 	2024-03-02 18:44:56
+avg test scalars :: (loss 5.91461) (D1 0.27392) (EPE 6.33572) (meantime 0.01588)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:44:57
+183/600 losses: 8.89477 	2024-03-02 18:45:06
+avg test scalars :: (loss 5.72908) (D1 0.29887) (EPE 6.12763) (meantime 0.01634)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:07
+184/600 losses: 9.27118 	2024-03-02 18:45:16
+avg test scalars :: (loss 7.13010) (D1 0.30088) (EPE 7.54154) (meantime 0.01961)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:17
+185/600 losses: 8.58449 	2024-03-02 18:45:26
+avg test scalars :: (loss 6.23382) (D1 0.28874) (EPE 6.63831) (meantime 0.01891)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:27
+186/600 losses: 9.17152 	2024-03-02 18:45:37
+avg test scalars :: (loss 8.76539) (D1 0.36303) (EPE 9.19074) (meantime 0.01587)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:38
+187/600 losses: 9.45852 	2024-03-02 18:45:47
+avg test scalars :: (loss 4.91375) (D1 0.25927) (EPE 5.32453) (meantime 0.01615)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:48
+188/600 losses: 8.59929 	2024-03-02 18:45:57
+avg test scalars :: (loss 6.19276) (D1 0.26422) (EPE 6.60346) (meantime 0.01423)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:45:58
+189/600 losses: 9.01191 	2024-03-02 18:46:08
+avg test scalars :: (loss 6.31541) (D1 0.29478) (EPE 6.72020) (meantime 0.01448)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:08
+190/600 losses: 9.16552 	2024-03-02 18:46:17
+avg test scalars :: (loss 7.15241) (D1 0.32605) (EPE 7.54294) (meantime 0.01668)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:18
+191/600 losses: 8.71462 	2024-03-02 18:46:28
+avg test scalars :: (loss 6.27931) (D1 0.29550) (EPE 6.69439) (meantime 0.01643)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:29
+192/600 losses: 8.98291 	2024-03-02 18:46:38
+avg test scalars :: (loss 6.22457) (D1 0.27955) (EPE 6.63822) (meantime 0.01496)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:39
+193/600 losses: 8.39829 	2024-03-02 18:46:48
+avg test scalars :: (loss 6.13494) (D1 0.29636) (EPE 6.52177) (meantime 0.01548)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:49
+194/600 losses: 8.74854 	2024-03-02 18:46:58
+avg test scalars :: (loss 6.78639) (D1 0.32386) (EPE 7.20897) (meantime 0.01559)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:46:59
+195/600 losses: 8.79410 	2024-03-02 18:47:08
+avg test scalars :: (loss 9.01562) (D1 0.31109) (EPE 9.41802) (meantime 0.01596)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:47:09
+196/600 losses: 8.76816 	2024-03-02 18:47:18
+avg test scalars :: (loss 6.94492) (D1 0.29571) (EPE 7.35839) (meantime 0.01485)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:47:19
+197/600 losses: 8.80748 	2024-03-02 18:47:29
+avg test scalars :: (loss 6.06163) (D1 0.28210) (EPE 6.45874) (meantime 0.01539)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:47:29
+198/600 losses: 9.01144 	2024-03-02 18:47:39
+avg test scalars :: (loss 7.41326) (D1 0.28411) (EPE 7.82781) (meantime 0.01545)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:47:40
+199/600 losses: 8.92552 	2024-03-02 18:47:49
+avg test scalars :: (loss 6.14988) (D1 0.27710) (EPE 6.56128) (meantime 0.01630)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:47:50
+200/600 losses: 8.68034 	2024-03-02 18:47:59
+avg test scalars :: (loss 6.42714) (D1 0.28006) (EPE 6.83591) (meantime 0.01730)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:00
+201/600 losses: 8.79150 	2024-03-02 18:48:09
+avg test scalars :: (loss 4.81861) (D1 0.27443) (EPE 5.22942) (meantime 0.01595)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:10
+202/600 losses: 8.32717 	2024-03-02 18:48:19
+avg test scalars :: (loss 7.12237) (D1 0.30999) (EPE 7.53894) (meantime 0.01971)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:21
+203/600 losses: 8.53775 	2024-03-02 18:48:30
+avg test scalars :: (loss 6.90359) (D1 0.27624) (EPE 7.33035) (meantime 0.01666)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:31
+204/600 losses: 8.42148 	2024-03-02 18:48:40
+avg test scalars :: (loss 6.95898) (D1 0.29336) (EPE 7.36772) (meantime 0.01588)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:41
+205/600 losses: 8.46173 	2024-03-02 18:48:50
+avg test scalars :: (loss 6.90835) (D1 0.28178) (EPE 7.31625) (meantime 0.01526)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:48:51
+206/600 losses: 8.64718 	2024-03-02 18:49:01
+avg test scalars :: (loss 6.49271) (D1 0.29160) (EPE 6.91504) (meantime 0.01416)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:01
+207/600 losses: 8.56015 	2024-03-02 18:49:11
+avg test scalars :: (loss 6.71937) (D1 0.30395) (EPE 7.13182) (meantime 0.01510)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:11
+208/600 losses: 8.95533 	2024-03-02 18:49:21
+avg test scalars :: (loss 5.87497) (D1 0.27250) (EPE 6.27189) (meantime 0.01623)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:21
+209/600 losses: 8.49747 	2024-03-02 18:49:31
+avg test scalars :: (loss 8.14822) (D1 0.31102) (EPE 8.55400) (meantime 0.01546)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:32
+210/600 losses: 8.39040 	2024-03-02 18:49:41
+avg test scalars :: (loss 7.78643) (D1 0.29422) (EPE 8.19300) (meantime 0.01432)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:42
+211/600 losses: 8.89645 	2024-03-02 18:49:51
+avg test scalars :: (loss 6.37928) (D1 0.27748) (EPE 6.79731) (meantime 0.01548)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:49:52
+212/600 losses: 8.52094 	2024-03-02 18:50:01
+avg test scalars :: (loss 6.93315) (D1 0.29167) (EPE 7.34469) (meantime 0.01568)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:02
+213/600 losses: 8.58331 	2024-03-02 18:50:11
+avg test scalars :: (loss 5.51499) (D1 0.25670) (EPE 5.91229) (meantime 0.01560)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:12
+214/600 losses: 8.82140 	2024-03-02 18:50:21
+avg test scalars :: (loss 5.67150) (D1 0.26158) (EPE 6.08451) (meantime 0.01727)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:22
+215/600 losses: 8.53748 	2024-03-02 18:50:32
+avg test scalars :: (loss 5.47495) (D1 0.30060) (EPE 5.90675) (meantime 0.01448)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:32
+216/600 losses: 8.65707 	2024-03-02 18:50:42
+avg test scalars :: (loss 5.35983) (D1 0.23761) (EPE 5.75778) (meantime 0.01642)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:42
+217/600 losses: 8.38950 	2024-03-02 18:50:52
+avg test scalars :: (loss 7.93732) (D1 0.30799) (EPE 8.34773) (meantime 0.01598)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:50:53
+218/600 losses: 8.40161 	2024-03-02 18:51:02
+avg test scalars :: (loss 5.79212) (D1 0.24813) (EPE 6.20694) (meantime 0.01783)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:03
+219/600 losses: 8.49311 	2024-03-02 18:51:12
+avg test scalars :: (loss 6.33869) (D1 0.29951) (EPE 6.74858) (meantime 0.01686)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:13
+220/600 losses: 8.48620 	2024-03-02 18:51:22
+avg test scalars :: (loss 6.56106) (D1 0.28919) (EPE 6.96828) (meantime 0.01613)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:23
+221/600 losses: 8.94175 	2024-03-02 18:51:33
+avg test scalars :: (loss 6.50133) (D1 0.29435) (EPE 6.91101) (meantime 0.01462)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:34
+222/600 losses: 8.61226 	2024-03-02 18:51:43
+avg test scalars :: (loss 6.66003) (D1 0.28730) (EPE 7.06761) (meantime 0.01397)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:44
+223/600 losses: 8.57490 	2024-03-02 18:51:53
+avg test scalars :: (loss 6.33425) (D1 0.28305) (EPE 6.73747) (meantime 0.01445)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:51:54
+224/600 losses: 8.50814 	2024-03-02 18:52:03
+avg test scalars :: (loss 6.02110) (D1 0.27133) (EPE 6.42388) (meantime 0.01487)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:04
+225/600 losses: 8.77601 	2024-03-02 18:52:13
+avg test scalars :: (loss 6.82507) (D1 0.29060) (EPE 7.22375) (meantime 0.01588)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:14
+226/600 losses: 8.66779 	2024-03-02 18:52:23
+avg test scalars :: (loss 5.48965) (D1 0.25790) (EPE 5.88734) (meantime 0.01419)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:24
+227/600 losses: 8.52771 	2024-03-02 18:52:33
+avg test scalars :: (loss 6.53110) (D1 0.29803) (EPE 6.92684) (meantime 0.01520)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:34
+228/600 losses: 8.41159 	2024-03-02 18:52:44
+avg test scalars :: (loss 5.89198) (D1 0.23842) (EPE 6.30007) (meantime 0.01570)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:45
+229/600 losses: 8.52255 	2024-03-02 18:52:54
+avg test scalars :: (loss 7.80902) (D1 0.32436) (EPE 8.23803) (meantime 0.01468)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:52:55
+230/600 losses: 8.86032 	2024-03-02 18:53:04
+avg test scalars :: (loss 5.81310) (D1 0.25605) (EPE 6.21657) (meantime 0.01431)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:05
+231/600 losses: 8.56652 	2024-03-02 18:53:14
+avg test scalars :: (loss 7.18282) (D1 0.31836) (EPE 7.59215) (meantime 0.01587)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:15
+232/600 losses: 8.34313 	2024-03-02 18:53:24
+avg test scalars :: (loss 6.36961) (D1 0.27243) (EPE 6.78269) (meantime 0.01561)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:25
+233/600 losses: 8.55773 	2024-03-02 18:53:35
+avg test scalars :: (loss 6.28333) (D1 0.24356) (EPE 6.68655) (meantime 0.01464)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:35
+234/600 losses: 8.02035 	2024-03-02 18:53:45
+avg test scalars :: (loss 6.31548) (D1 0.26903) (EPE 6.72269) (meantime 0.01547)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:46
+235/600 losses: 8.60674 	2024-03-02 18:53:55
+avg test scalars :: (loss 7.35941) (D1 0.27372) (EPE 7.76972) (meantime 0.01964)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:53:56
+236/600 losses: 8.53424 	2024-03-02 18:54:05
+avg test scalars :: (loss 7.71053) (D1 0.32883) (EPE 8.11929) (meantime 0.01858)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:06
+237/600 losses: 8.51263 	2024-03-02 18:54:15
+avg test scalars :: (loss 6.86383) (D1 0.25584) (EPE 7.27913) (meantime 0.01640)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:16
+238/600 losses: 8.89458 	2024-03-02 18:54:26
+avg test scalars :: (loss 5.43842) (D1 0.25791) (EPE 5.84014) (meantime 0.01601)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:27
+239/600 losses: 8.56856 	2024-03-02 18:54:36
+avg test scalars :: (loss 6.53789) (D1 0.31832) (EPE 6.94565) (meantime 0.01502)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:37
+240/600 losses: 8.01794 	2024-03-02 18:54:46
+avg test scalars :: (loss 6.31121) (D1 0.25341) (EPE 6.72474) (meantime 0.01425)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:47
+241/600 losses: 8.37582 	2024-03-02 18:54:56
+avg test scalars :: (loss 6.69064) (D1 0.29530) (EPE 7.09336) (meantime 0.01704)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:54:57
+242/600 losses: 8.42088 	2024-03-02 18:55:07
+avg test scalars :: (loss 5.93888) (D1 0.26324) (EPE 6.34691) (meantime 0.01513)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:08
+243/600 losses: 8.41204 	2024-03-02 18:55:17
+avg test scalars :: (loss 6.29399) (D1 0.29059) (EPE 6.69498) (meantime 0.01548)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:18
+244/600 losses: 8.02790 	2024-03-02 18:55:27
+avg test scalars :: (loss 5.83609) (D1 0.24624) (EPE 6.22922) (meantime 0.01705)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:28
+245/600 losses: 8.19628 	2024-03-02 18:55:37
+avg test scalars :: (loss 5.53383) (D1 0.28963) (EPE 5.95346) (meantime 0.01464)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:38
+246/600 losses: 9.00096 	2024-03-02 18:55:47
+avg test scalars :: (loss 6.00309) (D1 0.26159) (EPE 6.41237) (meantime 0.01636)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:48
+247/600 losses: 8.20503 	2024-03-02 18:55:58
+avg test scalars :: (loss 6.13655) (D1 0.29085) (EPE 6.54900) (meantime 0.01518)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:55:58
+248/600 losses: 8.50112 	2024-03-02 18:56:08
+avg test scalars :: (loss 6.63030) (D1 0.28224) (EPE 7.02792) (meantime 0.01486)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:09
+249/600 losses: 8.48799 	2024-03-02 18:56:18
+avg test scalars :: (loss 7.73965) (D1 0.30513) (EPE 8.13009) (meantime 0.01458)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:19
+250/600 losses: 8.47565 	2024-03-02 18:56:28
+avg test scalars :: (loss 6.79822) (D1 0.26585) (EPE 7.20958) (meantime 0.01648)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:29
+251/600 losses: 8.21233 	2024-03-02 18:56:38
+avg test scalars :: (loss 7.45106) (D1 0.32087) (EPE 7.86542) (meantime 0.01469)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:39
+252/600 losses: 8.67749 	2024-03-02 18:56:48
+avg test scalars :: (loss 6.88471) (D1 0.30790) (EPE 7.30068) (meantime 0.01664)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:49
+253/600 losses: 8.56164 	2024-03-02 18:56:58
+avg test scalars :: (loss 4.11130) (D1 0.23328) (EPE 4.50045) (meantime 0.02200)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:56:59
+254/600 losses: 8.57764 	2024-03-02 18:57:09
+avg test scalars :: (loss 6.32836) (D1 0.28487) (EPE 6.74124) (meantime 0.01686)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:57:10
+255/600 losses: 8.83844 	2024-03-02 18:57:19
+avg test scalars :: (loss 7.16360) (D1 0.34439) (EPE 7.58661) (meantime 0.01591)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:57:20
+256/600 losses: 8.93743 	2024-03-02 18:57:30
+avg test scalars :: (loss 5.61726) (D1 0.26012) (EPE 6.02415) (meantime 0.01560)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:57:30
+257/600 losses: 8.60020 	2024-03-02 18:57:40
+avg test scalars :: (loss 8.25130) (D1 0.35642) (EPE 8.65718) (meantime 0.01432)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:57:40
+258/600 losses: 8.69407 	2024-03-02 18:57:50
+avg test scalars :: (loss 5.25625) (D1 0.21908) (EPE 5.66352) (meantime 0.01599)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:57:50
+259/600 losses: 8.56137 	2024-03-02 18:58:00
+avg test scalars :: (loss 5.98795) (D1 0.25902) (EPE 6.39220) (meantime 0.01657)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:01
+260/600 losses: 8.39819 	2024-03-02 18:58:10
+avg test scalars :: (loss 7.44370) (D1 0.27809) (EPE 7.84115) (meantime 0.01457)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:11
+261/600 losses: 8.13620 	2024-03-02 18:58:20
+avg test scalars :: (loss 7.55257) (D1 0.23613) (EPE 7.96438) (meantime 0.01486)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:21
+262/600 losses: 8.42511 	2024-03-02 18:58:30
+avg test scalars :: (loss 6.68141) (D1 0.29856) (EPE 7.07140) (meantime 0.01448)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:31
+263/600 losses: 8.63344 	2024-03-02 18:58:40
+avg test scalars :: (loss 5.47527) (D1 0.25198) (EPE 5.86820) (meantime 0.01459)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:41
+264/600 losses: 8.55349 	2024-03-02 18:58:50
+avg test scalars :: (loss 5.79398) (D1 0.26531) (EPE 6.19408) (meantime 0.01635)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:58:51
+265/600 losses: 8.70878 	2024-03-02 18:59:01
+avg test scalars :: (loss 7.10551) (D1 0.26694) (EPE 7.50881) (meantime 0.01472)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:01
+266/600 losses: 8.38615 	2024-03-02 18:59:11
+avg test scalars :: (loss 7.29716) (D1 0.32759) (EPE 7.70962) (meantime 0.01547)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:12
+267/600 losses: 8.40535 	2024-03-02 18:59:21
+avg test scalars :: (loss 5.49775) (D1 0.27348) (EPE 5.90637) (meantime 0.01572)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:22
+268/600 losses: 8.70963 	2024-03-02 18:59:31
+avg test scalars :: (loss 7.39994) (D1 0.27467) (EPE 7.81105) (meantime 0.01594)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:32
+269/600 losses: 8.67338 	2024-03-02 18:59:41
+avg test scalars :: (loss 5.91107) (D1 0.25712) (EPE 6.31328) (meantime 0.01526)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:42
+270/600 losses: 8.57157 	2024-03-02 18:59:52
+avg test scalars :: (loss 7.21746) (D1 0.28948) (EPE 7.63939) (meantime 0.01720)
+MAX epoch 163 total test error = 0.21177	2024-03-02 18:59:52
+271/600 losses: 8.53134 	2024-03-02 19:00:02
+avg test scalars :: (loss 7.18386) (D1 0.28773) (EPE 7.61320) (meantime 0.01949)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:03
+272/600 losses: 8.27376 	2024-03-02 19:00:12
+avg test scalars :: (loss 6.63550) (D1 0.29051) (EPE 7.04805) (meantime 0.01669)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:13
+273/600 losses: 8.53517 	2024-03-02 19:00:22
+avg test scalars :: (loss 5.31846) (D1 0.21950) (EPE 5.70239) (meantime 0.01632)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:23
+274/600 losses: 8.71869 	2024-03-02 19:00:33
+avg test scalars :: (loss 6.69834) (D1 0.31133) (EPE 7.11988) (meantime 0.01623)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:34
+275/600 losses: 8.48281 	2024-03-02 19:00:43
+avg test scalars :: (loss 6.54152) (D1 0.27739) (EPE 6.94738) (meantime 0.01391)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:44
+276/600 losses: 8.79352 	2024-03-02 19:00:54
+avg test scalars :: (loss 6.61565) (D1 0.27932) (EPE 7.01995) (meantime 0.01471)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:00:54
+277/600 losses: 8.72954 	2024-03-02 19:01:03
+avg test scalars :: (loss 6.13621) (D1 0.26733) (EPE 6.53914) (meantime 0.01649)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:04
+278/600 losses: 8.43322 	2024-03-02 19:01:14
+avg test scalars :: (loss 5.94331) (D1 0.25167) (EPE 6.33996) (meantime 0.01521)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:15
+279/600 losses: 8.50418 	2024-03-02 19:01:24
+avg test scalars :: (loss 5.06554) (D1 0.25405) (EPE 5.44972) (meantime 0.01453)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:25
+280/600 losses: 8.67829 	2024-03-02 19:01:34
+avg test scalars :: (loss 5.67786) (D1 0.28089) (EPE 6.08701) (meantime 0.01564)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:35
+281/600 losses: 8.21722 	2024-03-02 19:01:44
+avg test scalars :: (loss 5.11505) (D1 0.22439) (EPE 5.52304) (meantime 0.01568)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:45
+282/600 losses: 8.84849 	2024-03-02 19:01:54
+avg test scalars :: (loss 5.71202) (D1 0.25415) (EPE 6.13048) (meantime 0.01538)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:01:55
+283/600 losses: 8.76424 	2024-03-02 19:02:04
+avg test scalars :: (loss 5.34307) (D1 0.24317) (EPE 5.73844) (meantime 0.01725)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:05
+284/600 losses: 8.48934 	2024-03-02 19:02:15
+avg test scalars :: (loss 7.26349) (D1 0.31447) (EPE 7.68023) (meantime 0.01720)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:16
+285/600 losses: 8.89337 	2024-03-02 19:02:25
+avg test scalars :: (loss 6.07840) (D1 0.25861) (EPE 6.48799) (meantime 0.01534)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:26
+286/600 losses: 8.50653 	2024-03-02 19:02:35
+avg test scalars :: (loss 4.93749) (D1 0.24168) (EPE 5.34949) (meantime 0.01586)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:36
+287/600 losses: 8.64860 	2024-03-02 19:02:45
+avg test scalars :: (loss 6.04353) (D1 0.25488) (EPE 6.44967) (meantime 0.01462)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:46
+288/600 losses: 8.51901 	2024-03-02 19:02:55
+avg test scalars :: (loss 6.08148) (D1 0.23152) (EPE 6.47754) (meantime 0.01539)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:02:56
+289/600 losses: 8.30664 	2024-03-02 19:03:05
+avg test scalars :: (loss 4.83995) (D1 0.21463) (EPE 5.23381) (meantime 0.01643)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:06
+290/600 losses: 8.49859 	2024-03-02 19:03:16
+avg test scalars :: (loss 5.87812) (D1 0.24906) (EPE 6.29263) (meantime 0.01912)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:17
+291/600 losses: 8.33800 	2024-03-02 19:03:26
+avg test scalars :: (loss 6.30070) (D1 0.23311) (EPE 6.70526) (meantime 0.01560)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:27
+292/600 losses: 8.64905 	2024-03-02 19:03:36
+avg test scalars :: (loss 7.57379) (D1 0.26900) (EPE 7.98254) (meantime 0.01591)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:37
+293/600 losses: 8.59519 	2024-03-02 19:03:46
+avg test scalars :: (loss 7.37186) (D1 0.26159) (EPE 7.76848) (meantime 0.01492)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:47
+294/600 losses: 8.78716 	2024-03-02 19:03:57
+avg test scalars :: (loss 7.16861) (D1 0.28126) (EPE 7.58814) (meantime 0.01437)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:03:57
+295/600 losses: 8.43260 	2024-03-02 19:04:07
+avg test scalars :: (loss 6.69149) (D1 0.26431) (EPE 7.10875) (meantime 0.01562)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:07
+296/600 losses: 8.56950 	2024-03-02 19:04:17
+avg test scalars :: (loss 7.51699) (D1 0.32285) (EPE 7.92530) (meantime 0.01565)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:17
+297/600 losses: 8.71428 	2024-03-02 19:04:27
+avg test scalars :: (loss 5.27039) (D1 0.25822) (EPE 5.67906) (meantime 0.01494)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:27
+298/600 losses: 8.45292 	2024-03-02 19:04:37
+avg test scalars :: (loss 7.34165) (D1 0.30915) (EPE 7.74828) (meantime 0.01603)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:38
+299/600 losses: 8.50387 	2024-03-02 19:04:47
+avg test scalars :: (loss 6.80681) (D1 0.26646) (EPE 7.19545) (meantime 0.01566)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:48
+300/600 losses: 8.62295 	2024-03-02 19:04:57
+avg test scalars :: (loss 5.79973) (D1 0.26837) (EPE 6.20623) (meantime 0.01514)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:04:58
+301/600 losses: 8.72250 	2024-03-02 19:05:07
+avg test scalars :: (loss 6.41316) (D1 0.25731) (EPE 6.81999) (meantime 0.01568)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:08
+302/600 losses: 8.30860 	2024-03-02 19:05:18
+avg test scalars :: (loss 6.17315) (D1 0.26210) (EPE 6.58759) (meantime 0.01563)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:18
+303/600 losses: 8.62326 	2024-03-02 19:05:28
+avg test scalars :: (loss 6.42445) (D1 0.27961) (EPE 6.83320) (meantime 0.01593)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:29
+304/600 losses: 8.61108 	2024-03-02 19:05:38
+avg test scalars :: (loss 6.60637) (D1 0.27394) (EPE 7.01728) (meantime 0.01459)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:39
+305/600 losses: 8.29793 	2024-03-02 19:05:48
+avg test scalars :: (loss 5.40034) (D1 0.26498) (EPE 5.79617) (meantime 0.01452)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:49
+306/600 losses: 8.36219 	2024-03-02 19:05:58
+avg test scalars :: (loss 5.04319) (D1 0.22264) (EPE 5.45078) (meantime 0.01534)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:05:59
+307/600 losses: 8.39082 	2024-03-02 19:06:08
+avg test scalars :: (loss 7.03125) (D1 0.30226) (EPE 7.43101) (meantime 0.01609)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:06:09
+308/600 losses: 8.67898 	2024-03-02 19:06:18
+avg test scalars :: (loss 6.93804) (D1 0.25730) (EPE 7.34273) (meantime 0.01680)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:06:19
+309/600 losses: 8.32412 	2024-03-02 19:06:29
+avg test scalars :: (loss 5.28069) (D1 0.22642) (EPE 5.66517) (meantime 0.02120)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:06:30
+310/600 losses: 8.67412 	2024-03-02 19:06:39
+avg test scalars :: (loss 4.34431) (D1 0.21450) (EPE 4.75305) (meantime 0.02133)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:06:40
+311/600 losses: 8.55366 	2024-03-02 19:06:49
+avg test scalars :: (loss 6.00354) (D1 0.26842) (EPE 6.41285) (meantime 0.01643)
+MAX epoch 163 total test error = 0.21177	2024-03-02 19:06:50
+312/600 losses: 8.23347 	2024-03-02 19:07:00
+avg test scalars :: (loss 4.51930) (D1 0.19733) (EPE 4.91250) (meantime 0.01509)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:01
+313/600 losses: 9.05072 	2024-03-02 19:07:10
+avg test scalars :: (loss 7.38307) (D1 0.26169) (EPE 7.79775) (meantime 0.01609)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:11
+314/600 losses: 8.64701 	2024-03-02 19:07:20
+avg test scalars :: (loss 6.81140) (D1 0.29476) (EPE 7.20964) (meantime 0.01438)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:21
+315/600 losses: 8.48662 	2024-03-02 19:07:30
+avg test scalars :: (loss 5.78384) (D1 0.24432) (EPE 6.18987) (meantime 0.01446)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:31
+316/600 losses: 8.65343 	2024-03-02 19:07:40
+avg test scalars :: (loss 6.03346) (D1 0.27130) (EPE 6.43952) (meantime 0.01491)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:41
+317/600 losses: 8.57698 	2024-03-02 19:07:50
+avg test scalars :: (loss 5.38110) (D1 0.23466) (EPE 5.77991) (meantime 0.01457)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:07:51
+318/600 losses: 8.31846 	2024-03-02 19:08:01
+avg test scalars :: (loss 6.16723) (D1 0.27103) (EPE 6.56948) (meantime 0.01681)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:01
+319/600 losses: 7.94863 	2024-03-02 19:08:11
+avg test scalars :: (loss 7.23296) (D1 0.28300) (EPE 7.63326) (meantime 0.01476)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:12
+320/600 losses: 8.86335 	2024-03-02 19:08:21
+avg test scalars :: (loss 5.30469) (D1 0.27792) (EPE 5.71510) (meantime 0.01467)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:22
+321/600 losses: 8.14330 	2024-03-02 19:08:31
+avg test scalars :: (loss 6.48881) (D1 0.27375) (EPE 6.89347) (meantime 0.01703)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:32
+322/600 losses: 8.29074 	2024-03-02 19:08:41
+avg test scalars :: (loss 5.99019) (D1 0.27371) (EPE 6.38933) (meantime 0.01516)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:42
+323/600 losses: 8.17881 	2024-03-02 19:08:52
+avg test scalars :: (loss 6.60907) (D1 0.28292) (EPE 7.01127) (meantime 0.01506)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:08:52
+324/600 losses: 8.26089 	2024-03-02 19:09:02
+avg test scalars :: (loss 6.41121) (D1 0.27220) (EPE 6.81121) (meantime 0.01584)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:02
+325/600 losses: 8.46665 	2024-03-02 19:09:12
+avg test scalars :: (loss 7.44512) (D1 0.29093) (EPE 7.85886) (meantime 0.01454)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:12
+326/600 losses: 8.87063 	2024-03-02 19:09:22
+avg test scalars :: (loss 6.95827) (D1 0.26191) (EPE 7.35076) (meantime 0.01540)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:23
+327/600 losses: 8.38458 	2024-03-02 19:09:32
+avg test scalars :: (loss 6.24924) (D1 0.24655) (EPE 6.64728) (meantime 0.01833)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:33
+328/600 losses: 8.77497 	2024-03-02 19:09:42
+avg test scalars :: (loss 5.47469) (D1 0.24018) (EPE 5.86648) (meantime 0.02056)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:43
+329/600 losses: 8.33347 	2024-03-02 19:09:53
+avg test scalars :: (loss 5.91408) (D1 0.23128) (EPE 6.30432) (meantime 0.01653)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:09:53
+330/600 losses: 8.47455 	2024-03-02 19:10:03
+avg test scalars :: (loss 5.59696) (D1 0.26141) (EPE 6.00848) (meantime 0.01541)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:04
+331/600 losses: 8.54830 	2024-03-02 19:10:13
+avg test scalars :: (loss 5.24544) (D1 0.23346) (EPE 5.65296) (meantime 0.01461)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:14
+332/600 losses: 8.01754 	2024-03-02 19:10:23
+avg test scalars :: (loss 6.45796) (D1 0.23578) (EPE 6.86822) (meantime 0.01584)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:24
+333/600 losses: 8.45289 	2024-03-02 19:10:33
+avg test scalars :: (loss 4.44478) (D1 0.21509) (EPE 4.85537) (meantime 0.01457)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:34
+334/600 losses: 8.13516 	2024-03-02 19:10:43
+avg test scalars :: (loss 5.42856) (D1 0.23724) (EPE 5.83017) (meantime 0.01588)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:44
+335/600 losses: 8.28708 	2024-03-02 19:10:54
+avg test scalars :: (loss 5.83789) (D1 0.27552) (EPE 6.22826) (meantime 0.01549)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:10:54
+336/600 losses: 8.60682 	2024-03-02 19:11:04
+avg test scalars :: (loss 6.41045) (D1 0.27687) (EPE 6.82980) (meantime 0.01690)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:05
+337/600 losses: 8.40347 	2024-03-02 19:11:14
+avg test scalars :: (loss 6.23693) (D1 0.25366) (EPE 6.62548) (meantime 0.01551)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:15
+338/600 losses: 8.24452 	2024-03-02 19:11:24
+avg test scalars :: (loss 7.53053) (D1 0.30787) (EPE 7.93306) (meantime 0.01629)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:25
+339/600 losses: 8.43173 	2024-03-02 19:11:34
+avg test scalars :: (loss 5.74553) (D1 0.25699) (EPE 6.14868) (meantime 0.01598)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:35
+340/600 losses: 8.63328 	2024-03-02 19:11:44
+avg test scalars :: (loss 5.91441) (D1 0.25455) (EPE 6.31393) (meantime 0.01449)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:45
+341/600 losses: 8.21168 	2024-03-02 19:11:54
+avg test scalars :: (loss 6.21853) (D1 0.31217) (EPE 6.61785) (meantime 0.01657)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:11:55
+342/600 losses: 8.39817 	2024-03-02 19:12:05
+avg test scalars :: (loss 6.98314) (D1 0.25733) (EPE 7.38784) (meantime 0.01551)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:06
+343/600 losses: 8.97006 	2024-03-02 19:12:15
+avg test scalars :: (loss 7.25590) (D1 0.27669) (EPE 7.65155) (meantime 0.01521)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:16
+344/600 losses: 8.27352 	2024-03-02 19:12:25
+avg test scalars :: (loss 6.40931) (D1 0.29739) (EPE 6.81678) (meantime 0.01480)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:26
+345/600 losses: 8.50393 	2024-03-02 19:12:35
+avg test scalars :: (loss 6.82166) (D1 0.28679) (EPE 7.22797) (meantime 0.01800)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:36
+346/600 losses: 8.53487 	2024-03-02 19:12:46
+avg test scalars :: (loss 4.37120) (D1 0.22264) (EPE 4.75846) (meantime 0.01913)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:47
+347/600 losses: 8.37926 	2024-03-02 19:12:56
+avg test scalars :: (loss 7.24135) (D1 0.29836) (EPE 7.65458) (meantime 0.01615)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:12:57
+348/600 losses: 8.47591 	2024-03-02 19:13:06
+avg test scalars :: (loss 5.78455) (D1 0.23150) (EPE 6.19261) (meantime 0.01730)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:07
+349/600 losses: 8.06142 	2024-03-02 19:13:17
+avg test scalars :: (loss 7.64769) (D1 0.30325) (EPE 8.05602) (meantime 0.01563)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:17
+350/600 losses: 8.99936 	2024-03-02 19:13:27
+avg test scalars :: (loss 5.89146) (D1 0.25554) (EPE 6.29527) (meantime 0.01374)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:27
+351/600 losses: 9.11922 	2024-03-02 19:13:37
+avg test scalars :: (loss 6.29006) (D1 0.31150) (EPE 6.68861) (meantime 0.01558)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:38
+352/600 losses: 8.14409 	2024-03-02 19:13:47
+avg test scalars :: (loss 6.04906) (D1 0.24806) (EPE 6.44566) (meantime 0.01536)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:48
+353/600 losses: 8.26016 	2024-03-02 19:13:57
+avg test scalars :: (loss 5.02030) (D1 0.28208) (EPE 5.42547) (meantime 0.01710)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:13:58
+354/600 losses: 8.91318 	2024-03-02 19:14:07
+avg test scalars :: (loss 5.90292) (D1 0.26100) (EPE 6.29996) (meantime 0.01505)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:08
+355/600 losses: 8.80302 	2024-03-02 19:14:17
+avg test scalars :: (loss 5.95018) (D1 0.22995) (EPE 6.35625) (meantime 0.01658)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:18
+356/600 losses: 8.73772 	2024-03-02 19:14:27
+avg test scalars :: (loss 6.72388) (D1 0.24895) (EPE 7.13878) (meantime 0.01471)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:28
+357/600 losses: 8.45672 	2024-03-02 19:14:37
+avg test scalars :: (loss 5.12063) (D1 0.23104) (EPE 5.50942) (meantime 0.01508)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:38
+358/600 losses: 8.62864 	2024-03-02 19:14:48
+avg test scalars :: (loss 5.79018) (D1 0.26117) (EPE 6.20505) (meantime 0.01736)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:48
+359/600 losses: 8.38902 	2024-03-02 19:14:58
+avg test scalars :: (loss 6.10901) (D1 0.25744) (EPE 6.49487) (meantime 0.01501)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:14:59
+360/600 losses: 8.75745 	2024-03-02 19:15:08
+avg test scalars :: (loss 5.51557) (D1 0.25091) (EPE 5.91592) (meantime 0.01604)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:15:09
+361/600 losses: 8.37123 	2024-03-02 19:15:18
+avg test scalars :: (loss 5.02556) (D1 0.24002) (EPE 5.42550) (meantime 0.01754)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:15:19
+362/600 losses: 8.53141 	2024-03-02 19:15:28
+avg test scalars :: (loss 6.45120) (D1 0.27696) (EPE 6.86493) (meantime 0.02106)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:15:29
+363/600 losses: 8.56177 	2024-03-02 19:15:38
+avg test scalars :: (loss 5.96618) (D1 0.28126) (EPE 6.36643) (meantime 0.01573)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:15:39
+364/600 losses: 8.60057 	2024-03-02 19:15:49
+avg test scalars :: (loss 5.46483) (D1 0.26467) (EPE 5.87097) (meantime 0.01496)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:15:49
+365/600 losses: 8.64161 	2024-03-02 19:15:59
+avg test scalars :: (loss 7.14628) (D1 0.29682) (EPE 7.56429) (meantime 0.01385)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:00
+366/600 losses: 8.38532 	2024-03-02 19:16:09
+avg test scalars :: (loss 4.63576) (D1 0.20417) (EPE 5.02899) (meantime 0.01418)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:10
+367/600 losses: 8.55032 	2024-03-02 19:16:19
+avg test scalars :: (loss 6.91115) (D1 0.26658) (EPE 7.32893) (meantime 0.01595)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:20
+368/600 losses: 8.20625 	2024-03-02 19:16:29
+avg test scalars :: (loss 7.82059) (D1 0.31108) (EPE 8.22978) (meantime 0.01596)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:30
+369/600 losses: 8.26020 	2024-03-02 19:16:39
+avg test scalars :: (loss 6.53904) (D1 0.25629) (EPE 6.94807) (meantime 0.01566)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:40
+370/600 losses: 8.29976 	2024-03-02 19:16:49
+avg test scalars :: (loss 6.68729) (D1 0.26673) (EPE 7.09181) (meantime 0.01506)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:16:50
+371/600 losses: 8.39568 	2024-03-02 19:17:00
+avg test scalars :: (loss 7.26796) (D1 0.29106) (EPE 7.67536) (meantime 0.01639)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:00
+372/600 losses: 8.30954 	2024-03-02 19:17:10
+avg test scalars :: (loss 5.57448) (D1 0.26647) (EPE 5.95765) (meantime 0.01680)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:11
+373/600 losses: 8.37977 	2024-03-02 19:17:20
+avg test scalars :: (loss 5.44608) (D1 0.24719) (EPE 5.85800) (meantime 0.01519)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:21
+374/600 losses: 8.55754 	2024-03-02 19:17:30
+avg test scalars :: (loss 6.37278) (D1 0.30726) (EPE 6.78792) (meantime 0.01530)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:31
+375/600 losses: 8.36999 	2024-03-02 19:17:40
+avg test scalars :: (loss 5.79442) (D1 0.25365) (EPE 6.20716) (meantime 0.01721)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:41
+376/600 losses: 8.54498 	2024-03-02 19:17:50
+avg test scalars :: (loss 5.84858) (D1 0.26315) (EPE 6.25310) (meantime 0.01445)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:17:51
+377/600 losses: 8.31312 	2024-03-02 19:18:00
+avg test scalars :: (loss 4.98434) (D1 0.25135) (EPE 5.38294) (meantime 0.01572)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:01
+378/600 losses: 8.61530 	2024-03-02 19:18:10
+avg test scalars :: (loss 5.31608) (D1 0.20858) (EPE 5.70897) (meantime 0.02003)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:12
+379/600 losses: 8.23686 	2024-03-02 19:18:21
+avg test scalars :: (loss 7.29823) (D1 0.29194) (EPE 7.70077) (meantime 0.01743)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:22
+380/600 losses: 7.90689 	2024-03-02 19:18:31
+avg test scalars :: (loss 4.77960) (D1 0.22457) (EPE 5.18952) (meantime 0.01501)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:32
+381/600 losses: 8.61856 	2024-03-02 19:18:42
+avg test scalars :: (loss 5.01467) (D1 0.21670) (EPE 5.41820) (meantime 0.01593)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:42
+382/600 losses: 8.23882 	2024-03-02 19:18:52
+avg test scalars :: (loss 5.21721) (D1 0.23150) (EPE 5.60655) (meantime 0.01432)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:18:53
+383/600 losses: 8.70775 	2024-03-02 19:19:02
+avg test scalars :: (loss 7.90628) (D1 0.30390) (EPE 8.31791) (meantime 0.01528)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:03
+384/600 losses: 8.07430 	2024-03-02 19:19:12
+avg test scalars :: (loss 4.30864) (D1 0.21895) (EPE 4.71448) (meantime 0.01610)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:13
+385/600 losses: 8.24214 	2024-03-02 19:19:22
+avg test scalars :: (loss 4.86390) (D1 0.21653) (EPE 5.26004) (meantime 0.01699)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:23
+386/600 losses: 8.17700 	2024-03-02 19:19:32
+avg test scalars :: (loss 6.25000) (D1 0.26719) (EPE 6.64760) (meantime 0.01448)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:33
+387/600 losses: 8.69595 	2024-03-02 19:19:42
+avg test scalars :: (loss 7.13557) (D1 0.26932) (EPE 7.53681) (meantime 0.01641)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:43
+388/600 losses: 8.13332 	2024-03-02 19:19:53
+avg test scalars :: (loss 4.75414) (D1 0.21112) (EPE 5.16364) (meantime 0.01610)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:19:53
+389/600 losses: 8.45235 	2024-03-02 19:20:03
+avg test scalars :: (loss 6.97359) (D1 0.23809) (EPE 7.37664) (meantime 0.01719)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:04
+390/600 losses: 8.09698 	2024-03-02 19:20:13
+avg test scalars :: (loss 6.75680) (D1 0.25710) (EPE 7.16467) (meantime 0.01626)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:14
+391/600 losses: 8.42784 	2024-03-02 19:20:23
+avg test scalars :: (loss 5.69227) (D1 0.23706) (EPE 6.09209) (meantime 0.01511)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:24
+392/600 losses: 8.40967 	2024-03-02 19:20:34
+avg test scalars :: (loss 6.61089) (D1 0.25424) (EPE 7.02578) (meantime 0.01541)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:34
+393/600 losses: 8.95076 	2024-03-02 19:20:44
+avg test scalars :: (loss 6.03905) (D1 0.27788) (EPE 6.44596) (meantime 0.01442)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:44
+394/600 losses: 8.76545 	2024-03-02 19:20:54
+avg test scalars :: (loss 5.19011) (D1 0.27952) (EPE 5.60073) (meantime 0.01776)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:20:55
+395/600 losses: 8.35533 	2024-03-02 19:21:04
+avg test scalars :: (loss 7.69778) (D1 0.29585) (EPE 8.11445) (meantime 0.01902)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:21:05
+396/600 losses: 8.79981 	2024-03-02 19:21:14
+avg test scalars :: (loss 4.09871) (D1 0.20122) (EPE 4.48388) (meantime 0.01699)
+MAX epoch 312 total test error = 0.19733	2024-03-02 19:21:15
+397/600 losses: 8.33751 	2024-03-02 19:21:24
+avg test scalars :: (loss 4.79552) (D1 0.18505) (EPE 5.18772) (meantime 0.01882)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:21:26
+398/600 losses: 8.29642 	2024-03-02 19:21:35
+avg test scalars :: (loss 5.34272) (D1 0.20627) (EPE 5.73022) (meantime 0.01837)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:21:36
+399/600 losses: 8.27476 	2024-03-02 19:21:45
+avg test scalars :: (loss 6.50901) (D1 0.26008) (EPE 6.90731) (meantime 0.01614)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:21:46
+400/600 losses: 8.68695 	2024-03-02 19:21:55
+avg test scalars :: (loss 5.36813) (D1 0.27151) (EPE 5.76759) (meantime 0.01498)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:21:56
+401/600 losses: 8.90193 	2024-03-02 19:22:06
+avg test scalars :: (loss 5.59664) (D1 0.25888) (EPE 5.98113) (meantime 0.01405)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:06
+402/600 losses: 8.43183 	2024-03-02 19:22:16
+avg test scalars :: (loss 5.60557) (D1 0.23443) (EPE 6.00779) (meantime 0.01505)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:17
+403/600 losses: 8.50128 	2024-03-02 19:22:26
+avg test scalars :: (loss 6.60177) (D1 0.29182) (EPE 7.00866) (meantime 0.01766)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:27
+404/600 losses: 8.11635 	2024-03-02 19:22:36
+avg test scalars :: (loss 7.82418) (D1 0.29428) (EPE 8.23684) (meantime 0.01543)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:37
+405/600 losses: 8.25764 	2024-03-02 19:22:46
+avg test scalars :: (loss 5.79381) (D1 0.22708) (EPE 6.19505) (meantime 0.01594)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:47
+406/600 losses: 8.42651 	2024-03-02 19:22:56
+avg test scalars :: (loss 4.17755) (D1 0.19204) (EPE 4.57905) (meantime 0.01516)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:22:57
+407/600 losses: 8.33787 	2024-03-02 19:23:06
+avg test scalars :: (loss 6.57870) (D1 0.25389) (EPE 6.99325) (meantime 0.01529)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:07
+408/600 losses: 8.29033 	2024-03-02 19:23:16
+avg test scalars :: (loss 6.04919) (D1 0.24818) (EPE 6.45801) (meantime 0.01469)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:17
+409/600 losses: 8.59954 	2024-03-02 19:23:27
+avg test scalars :: (loss 6.13492) (D1 0.26867) (EPE 6.54684) (meantime 0.01519)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:27
+410/600 losses: 8.86401 	2024-03-02 19:23:37
+avg test scalars :: (loss 5.37641) (D1 0.23868) (EPE 5.77438) (meantime 0.01481)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:38
+411/600 losses: 8.45805 	2024-03-02 19:23:47
+avg test scalars :: (loss 5.91317) (D1 0.28246) (EPE 6.32452) (meantime 0.01455)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:48
+412/600 losses: 8.42207 	2024-03-02 19:23:57
+avg test scalars :: (loss 6.37828) (D1 0.29496) (EPE 6.79400) (meantime 0.01480)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:23:58
+413/600 losses: 9.08698 	2024-03-02 19:24:07
+avg test scalars :: (loss 6.38073) (D1 0.29883) (EPE 6.79520) (meantime 0.01530)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:08
+414/600 losses: 8.52393 	2024-03-02 19:24:17
+avg test scalars :: (loss 6.60620) (D1 0.25473) (EPE 7.02886) (meantime 0.01737)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:18
+415/600 losses: 8.24601 	2024-03-02 19:24:27
+avg test scalars :: (loss 4.49031) (D1 0.22998) (EPE 4.89556) (meantime 0.01857)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:29
+416/600 losses: 8.59298 	2024-03-02 19:24:38
+avg test scalars :: (loss 7.09502) (D1 0.27305) (EPE 7.50398) (meantime 0.01906)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:39
+417/600 losses: 8.43680 	2024-03-02 19:24:48
+avg test scalars :: (loss 6.25912) (D1 0.27986) (EPE 6.66160) (meantime 0.01577)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:49
+418/600 losses: 8.51740 	2024-03-02 19:24:58
+avg test scalars :: (loss 7.01974) (D1 0.28352) (EPE 7.43399) (meantime 0.01542)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:24:59
+419/600 losses: 8.22909 	2024-03-02 19:25:09
+avg test scalars :: (loss 5.46519) (D1 0.24288) (EPE 5.85987) (meantime 0.01514)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:25:10
+420/600 losses: 8.39230 	2024-03-02 19:25:19
+avg test scalars :: (loss 5.37477) (D1 0.22775) (EPE 5.78601) (meantime 0.01374)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:25:20
+421/600 losses: 8.41719 	2024-03-02 19:25:29
+avg test scalars :: (loss 6.24769) (D1 0.26642) (EPE 6.65206) (meantime 0.01530)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:25:30
+422/600 losses: 8.70987 	2024-03-02 19:25:39
+avg test scalars :: (loss 5.47449) (D1 0.25696) (EPE 5.88090) (meantime 0.01529)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:25:40
+423/600 losses: 7.94654 	2024-03-02 19:25:49
+avg test scalars :: (loss 6.73284) (D1 0.31592) (EPE 7.13355) (meantime 0.01582)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:25:50
+424/600 losses: 8.18207 	2024-03-02 19:25:59
+avg test scalars :: (loss 5.13698) (D1 0.23524) (EPE 5.54596) (meantime 0.01522)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:00
+425/600 losses: 8.46803 	2024-03-02 19:26:10
+avg test scalars :: (loss 7.34256) (D1 0.29648) (EPE 7.75885) (meantime 0.01557)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:10
+426/600 losses: 8.73475 	2024-03-02 19:26:20
+avg test scalars :: (loss 7.92115) (D1 0.29012) (EPE 8.32964) (meantime 0.01653)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:21
+427/600 losses: 8.37460 	2024-03-02 19:26:30
+avg test scalars :: (loss 5.63380) (D1 0.28390) (EPE 6.03562) (meantime 0.01653)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:31
+428/600 losses: 8.55322 	2024-03-02 19:26:40
+avg test scalars :: (loss 7.08616) (D1 0.30561) (EPE 7.48043) (meantime 0.01518)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:41
+429/600 losses: 8.34610 	2024-03-02 19:26:50
+avg test scalars :: (loss 5.82554) (D1 0.24770) (EPE 6.22740) (meantime 0.01583)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:26:51
+430/600 losses: 8.58643 	2024-03-02 19:27:00
+avg test scalars :: (loss 6.07759) (D1 0.27110) (EPE 6.48804) (meantime 0.01496)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:01
+431/600 losses: 8.44080 	2024-03-02 19:27:10
+avg test scalars :: (loss 4.90202) (D1 0.23255) (EPE 5.30165) (meantime 0.01586)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:11
+432/600 losses: 8.46976 	2024-03-02 19:27:21
+avg test scalars :: (loss 6.83009) (D1 0.25937) (EPE 7.23722) (meantime 0.01428)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:21
+433/600 losses: 8.33569 	2024-03-02 19:27:31
+avg test scalars :: (loss 7.40748) (D1 0.29906) (EPE 7.81915) (meantime 0.01676)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:32
+434/600 losses: 8.36502 	2024-03-02 19:27:41
+avg test scalars :: (loss 8.22274) (D1 0.29542) (EPE 8.63867) (meantime 0.01781)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:42
+435/600 losses: 8.33447 	2024-03-02 19:27:51
+avg test scalars :: (loss 5.54229) (D1 0.21907) (EPE 5.93661) (meantime 0.01952)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:27:52
+436/600 losses: 8.35179 	2024-03-02 19:28:01
+avg test scalars :: (loss 6.58248) (D1 0.27542) (EPE 6.98065) (meantime 0.01482)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:02
+437/600 losses: 8.39201 	2024-03-02 19:28:12
+avg test scalars :: (loss 6.48856) (D1 0.30113) (EPE 6.89669) (meantime 0.01778)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:13
+438/600 losses: 8.30601 	2024-03-02 19:28:22
+avg test scalars :: (loss 7.42232) (D1 0.27404) (EPE 7.82466) (meantime 0.01445)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:23
+439/600 losses: 7.90083 	2024-03-02 19:28:32
+avg test scalars :: (loss 6.12319) (D1 0.29344) (EPE 6.53816) (meantime 0.01427)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:33
+440/600 losses: 8.33535 	2024-03-02 19:28:42
+avg test scalars :: (loss 5.96542) (D1 0.21365) (EPE 6.35392) (meantime 0.01459)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:43
+441/600 losses: 8.55504 	2024-03-02 19:28:52
+avg test scalars :: (loss 6.46191) (D1 0.28742) (EPE 6.86308) (meantime 0.01717)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:28:53
+442/600 losses: 8.32841 	2024-03-02 19:29:02
+avg test scalars :: (loss 5.30274) (D1 0.19074) (EPE 5.69575) (meantime 0.01572)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:03
+443/600 losses: 8.23810 	2024-03-02 19:29:13
+avg test scalars :: (loss 6.34622) (D1 0.25244) (EPE 6.75339) (meantime 0.01538)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:13
+444/600 losses: 8.08352 	2024-03-02 19:29:23
+avg test scalars :: (loss 5.11789) (D1 0.21882) (EPE 5.52356) (meantime 0.01601)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:24
+445/600 losses: 8.42248 	2024-03-02 19:29:33
+avg test scalars :: (loss 5.87020) (D1 0.24585) (EPE 6.27333) (meantime 0.01553)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:34
+446/600 losses: 8.16831 	2024-03-02 19:29:43
+avg test scalars :: (loss 4.80644) (D1 0.21018) (EPE 5.19371) (meantime 0.01533)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:44
+447/600 losses: 8.43146 	2024-03-02 19:29:53
+avg test scalars :: (loss 8.16359) (D1 0.27220) (EPE 8.54999) (meantime 0.01526)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:29:54
+448/600 losses: 8.60416 	2024-03-02 19:30:04
+avg test scalars :: (loss 5.41670) (D1 0.25334) (EPE 5.82329) (meantime 0.01533)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:04
+449/600 losses: 8.09097 	2024-03-02 19:30:14
+avg test scalars :: (loss 5.78708) (D1 0.22415) (EPE 6.19377) (meantime 0.01759)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:15
+450/600 losses: 8.26138 	2024-03-02 19:30:24
+avg test scalars :: (loss 6.25389) (D1 0.23107) (EPE 6.64058) (meantime 0.01643)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:25
+451/600 losses: 8.29008 	2024-03-02 19:30:34
+avg test scalars :: (loss 6.08137) (D1 0.27293) (EPE 6.48049) (meantime 0.01511)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:35
+452/600 losses: 8.19896 	2024-03-02 19:30:44
+avg test scalars :: (loss 5.87363) (D1 0.23280) (EPE 6.27768) (meantime 0.01565)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:45
+453/600 losses: 8.27328 	2024-03-02 19:30:54
+avg test scalars :: (loss 5.82898) (D1 0.23870) (EPE 6.22441) (meantime 0.01803)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:30:55
+454/600 losses: 8.72684 	2024-03-02 19:31:05
+avg test scalars :: (loss 7.14564) (D1 0.27799) (EPE 7.55929) (meantime 0.01572)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:05
+455/600 losses: 8.44755 	2024-03-02 19:31:15
+avg test scalars :: (loss 7.19984) (D1 0.27979) (EPE 7.60825) (meantime 0.01597)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:16
+456/600 losses: 8.34170 	2024-03-02 19:31:25
+avg test scalars :: (loss 6.80969) (D1 0.27443) (EPE 7.21032) (meantime 0.01633)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:26
+457/600 losses: 8.38821 	2024-03-02 19:31:35
+avg test scalars :: (loss 6.10457) (D1 0.23820) (EPE 6.51023) (meantime 0.01430)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:36
+458/600 losses: 8.80669 	2024-03-02 19:31:46
+avg test scalars :: (loss 5.69021) (D1 0.25061) (EPE 6.09984) (meantime 0.01585)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:46
+459/600 losses: 8.34943 	2024-03-02 19:31:56
+avg test scalars :: (loss 7.03734) (D1 0.26740) (EPE 7.43048) (meantime 0.01538)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:31:56
+460/600 losses: 8.52708 	2024-03-02 19:32:06
+avg test scalars :: (loss 8.14572) (D1 0.28768) (EPE 8.56682) (meantime 0.01730)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:07
+461/600 losses: 8.60172 	2024-03-02 19:32:16
+avg test scalars :: (loss 5.39677) (D1 0.28041) (EPE 5.80945) (meantime 0.01553)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:17
+462/600 losses: 8.06596 	2024-03-02 19:32:26
+avg test scalars :: (loss 5.94651) (D1 0.25666) (EPE 6.34507) (meantime 0.01464)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:27
+463/600 losses: 7.95765 	2024-03-02 19:32:36
+avg test scalars :: (loss 7.48666) (D1 0.29041) (EPE 7.89575) (meantime 0.01490)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:37
+464/600 losses: 8.44910 	2024-03-02 19:32:46
+avg test scalars :: (loss 5.68372) (D1 0.24479) (EPE 6.08876) (meantime 0.01551)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:47
+465/600 losses: 8.56055 	2024-03-02 19:32:57
+avg test scalars :: (loss 7.88284) (D1 0.32783) (EPE 8.28791) (meantime 0.01616)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:32:57
+466/600 losses: 8.37012 	2024-03-02 19:33:07
+avg test scalars :: (loss 4.17971) (D1 0.20812) (EPE 4.57382) (meantime 0.01508)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:08
+467/600 losses: 8.05572 	2024-03-02 19:33:17
+avg test scalars :: (loss 6.31809) (D1 0.26722) (EPE 6.71103) (meantime 0.01519)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:18
+468/600 losses: 8.53768 	2024-03-02 19:33:27
+avg test scalars :: (loss 5.03599) (D1 0.25676) (EPE 5.43499) (meantime 0.01651)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:28
+469/600 losses: 8.67680 	2024-03-02 19:33:37
+avg test scalars :: (loss 7.47578) (D1 0.30858) (EPE 7.87700) (meantime 0.01493)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:38
+470/600 losses: 8.39157 	2024-03-02 19:33:47
+avg test scalars :: (loss 4.31403) (D1 0.24126) (EPE 4.70842) (meantime 0.01830)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:48
+471/600 losses: 8.01037 	2024-03-02 19:33:57
+avg test scalars :: (loss 7.07347) (D1 0.26227) (EPE 7.48137) (meantime 0.02003)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:33:58
+472/600 losses: 8.31662 	2024-03-02 19:34:08
+avg test scalars :: (loss 5.60019) (D1 0.26798) (EPE 5.99932) (meantime 0.01466)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:08
+473/600 losses: 8.46219 	2024-03-02 19:34:18
+avg test scalars :: (loss 6.50567) (D1 0.25367) (EPE 6.89655) (meantime 0.01665)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:19
+474/600 losses: 8.07623 	2024-03-02 19:34:28
+avg test scalars :: (loss 5.11896) (D1 0.23392) (EPE 5.52462) (meantime 0.01518)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:29
+475/600 losses: 8.26087 	2024-03-02 19:34:39
+avg test scalars :: (loss 5.61530) (D1 0.25746) (EPE 6.01597) (meantime 0.01448)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:39
+476/600 losses: 8.57346 	2024-03-02 19:34:49
+avg test scalars :: (loss 6.39665) (D1 0.26391) (EPE 6.80574) (meantime 0.01525)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:49
+477/600 losses: 8.47979 	2024-03-02 19:34:59
+avg test scalars :: (loss 6.88719) (D1 0.25841) (EPE 7.29194) (meantime 0.01655)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:34:59
+478/600 losses: 8.09291 	2024-03-02 19:35:09
+avg test scalars :: (loss 5.43541) (D1 0.23773) (EPE 5.83564) (meantime 0.01491)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:35:09
+479/600 losses: 8.20885 	2024-03-02 19:35:19
+avg test scalars :: (loss 7.37671) (D1 0.28637) (EPE 7.76304) (meantime 0.01482)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:35:20
+480/600 losses: 8.31204 	2024-03-02 19:35:29
+avg test scalars :: (loss 5.89286) (D1 0.29260) (EPE 6.29440) (meantime 0.01577)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:35:30
+481/600 losses: 8.50897 	2024-03-02 19:35:39
+avg test scalars :: (loss 5.78619) (D1 0.26557) (EPE 6.19989) (meantime 0.01654)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:35:40
+482/600 losses: 8.43979 	2024-03-02 19:35:49
+avg test scalars :: (loss 5.17669) (D1 0.23189) (EPE 5.57001) (meantime 0.01467)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:35:50
+483/600 losses: 8.49119 	2024-03-02 19:35:59
+avg test scalars :: (loss 4.77387) (D1 0.25187) (EPE 5.18555) (meantime 0.01502)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:00
+484/600 losses: 8.61050 	2024-03-02 19:36:09
+avg test scalars :: (loss 4.94972) (D1 0.20990) (EPE 5.32823) (meantime 0.01689)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:10
+485/600 losses: 8.21663 	2024-03-02 19:36:20
+avg test scalars :: (loss 4.54019) (D1 0.24008) (EPE 4.92865) (meantime 0.01613)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:20
+486/600 losses: 8.08489 	2024-03-02 19:36:30
+avg test scalars :: (loss 6.50303) (D1 0.24136) (EPE 6.90323) (meantime 0.01482)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:31
+487/600 losses: 8.08608 	2024-03-02 19:36:40
+avg test scalars :: (loss 5.41967) (D1 0.26066) (EPE 5.81272) (meantime 0.01734)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:41
+488/600 losses: 8.34925 	2024-03-02 19:36:50
+avg test scalars :: (loss 6.25015) (D1 0.26999) (EPE 6.67026) (meantime 0.01910)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:36:51
+489/600 losses: 8.55615 	2024-03-02 19:37:00
+avg test scalars :: (loss 5.81621) (D1 0.22680) (EPE 6.21698) (meantime 0.01454)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:01
+490/600 losses: 8.50700 	2024-03-02 19:37:11
+avg test scalars :: (loss 6.06200) (D1 0.29123) (EPE 6.47516) (meantime 0.01576)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:11
+491/600 losses: 8.51342 	2024-03-02 19:37:21
+avg test scalars :: (loss 6.52662) (D1 0.25492) (EPE 6.91438) (meantime 0.01382)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:21
+492/600 losses: 8.19304 	2024-03-02 19:37:31
+avg test scalars :: (loss 5.77387) (D1 0.25995) (EPE 6.18288) (meantime 0.01545)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:32
+493/600 losses: 8.05172 	2024-03-02 19:37:41
+avg test scalars :: (loss 6.54029) (D1 0.28358) (EPE 6.94283) (meantime 0.01530)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:42
+494/600 losses: 8.39200 	2024-03-02 19:37:51
+avg test scalars :: (loss 5.39901) (D1 0.25336) (EPE 5.80333) (meantime 0.01618)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:37:52
+495/600 losses: 8.19987 	2024-03-02 19:38:01
+avg test scalars :: (loss 6.03472) (D1 0.25120) (EPE 6.42232) (meantime 0.01550)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:02
+496/600 losses: 8.22233 	2024-03-02 19:38:11
+avg test scalars :: (loss 5.57973) (D1 0.24233) (EPE 5.97609) (meantime 0.01563)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:12
+497/600 losses: 8.46567 	2024-03-02 19:38:22
+avg test scalars :: (loss 6.09028) (D1 0.28507) (EPE 6.50082) (meantime 0.01502)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:22
+498/600 losses: 8.32979 	2024-03-02 19:38:32
+avg test scalars :: (loss 5.53952) (D1 0.26198) (EPE 5.93102) (meantime 0.01476)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:32
+499/600 losses: 7.97764 	2024-03-02 19:38:42
+avg test scalars :: (loss 5.44870) (D1 0.23062) (EPE 5.84716) (meantime 0.01540)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:43
+500/600 losses: 8.16764 	2024-03-02 19:38:52
+avg test scalars :: (loss 6.30320) (D1 0.25672) (EPE 6.69811) (meantime 0.01538)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:38:53
+501/600 losses: 7.63454 	2024-03-02 19:39:02
+avg test scalars :: (loss 6.66039) (D1 0.27358) (EPE 7.05448) (meantime 0.01493)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:03
+502/600 losses: 8.19396 	2024-03-02 19:39:12
+avg test scalars :: (loss 5.57830) (D1 0.22981) (EPE 5.98358) (meantime 0.01580)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:13
+503/600 losses: 8.35024 	2024-03-02 19:39:22
+avg test scalars :: (loss 5.82180) (D1 0.22894) (EPE 6.20357) (meantime 0.01676)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:23
+504/600 losses: 8.12113 	2024-03-02 19:39:32
+avg test scalars :: (loss 8.39087) (D1 0.33165) (EPE 8.79544) (meantime 0.01675)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:33
+505/600 losses: 8.54026 	2024-03-02 19:39:43
+avg test scalars :: (loss 5.24292) (D1 0.23637) (EPE 5.66077) (meantime 0.01956)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:44
+506/600 losses: 8.20092 	2024-03-02 19:39:53
+avg test scalars :: (loss 5.97183) (D1 0.28004) (EPE 6.37301) (meantime 0.01728)
+MAX epoch 397 total test error = 0.18505	2024-03-02 19:39:54
+507/600 losses: 8.02943 	2024-03-02 19:40:03
+avg test scalars :: (loss 4.40406) (D1 0.17733) (EPE 4.77625) (meantime 0.01549)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:04
+508/600 losses: 8.01374 	2024-03-02 19:40:14
+avg test scalars :: (loss 6.80908) (D1 0.27823) (EPE 7.21101) (meantime 0.01623)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:14
+509/600 losses: 8.17151 	2024-03-02 19:40:24
+avg test scalars :: (loss 5.85898) (D1 0.25878) (EPE 6.26027) (meantime 0.01482)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:25
+510/600 losses: 8.08757 	2024-03-02 19:40:34
+avg test scalars :: (loss 6.66310) (D1 0.27972) (EPE 7.06855) (meantime 0.01457)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:35
+511/600 losses: 8.39626 	2024-03-02 19:40:44
+avg test scalars :: (loss 4.68272) (D1 0.22602) (EPE 5.07816) (meantime 0.01536)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:45
+512/600 losses: 8.59920 	2024-03-02 19:40:54
+avg test scalars :: (loss 6.39623) (D1 0.26247) (EPE 6.78846) (meantime 0.01592)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:40:55
+513/600 losses: 8.30330 	2024-03-02 19:41:04
+avg test scalars :: (loss 6.55895) (D1 0.27729) (EPE 6.95313) (meantime 0.01613)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:05
+514/600 losses: 8.19094 	2024-03-02 19:41:15
+avg test scalars :: (loss 6.75429) (D1 0.23203) (EPE 7.14525) (meantime 0.01725)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:15
+515/600 losses: 7.96048 	2024-03-02 19:41:25
+avg test scalars :: (loss 5.42550) (D1 0.22787) (EPE 5.81817) (meantime 0.01445)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:26
+516/600 losses: 8.43823 	2024-03-02 19:41:35
+avg test scalars :: (loss 6.04725) (D1 0.25941) (EPE 6.44322) (meantime 0.01502)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:36
+517/600 losses: 8.03560 	2024-03-02 19:41:45
+avg test scalars :: (loss 5.17960) (D1 0.26225) (EPE 5.57503) (meantime 0.01466)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:46
+518/600 losses: 8.57300 	2024-03-02 19:41:55
+avg test scalars :: (loss 5.61896) (D1 0.23670) (EPE 6.00691) (meantime 0.01446)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:41:56
+519/600 losses: 8.17042 	2024-03-02 19:42:05
+avg test scalars :: (loss 5.88295) (D1 0.21686) (EPE 6.27808) (meantime 0.01620)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:06
+520/600 losses: 8.14490 	2024-03-02 19:42:16
+avg test scalars :: (loss 5.70695) (D1 0.25268) (EPE 6.11694) (meantime 0.01498)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:16
+521/600 losses: 8.34137 	2024-03-02 19:42:26
+avg test scalars :: (loss 7.92830) (D1 0.29434) (EPE 8.33995) (meantime 0.01553)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:27
+522/600 losses: 8.04461 	2024-03-02 19:42:36
+avg test scalars :: (loss 5.25490) (D1 0.23117) (EPE 5.65395) (meantime 0.01737)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:37
+523/600 losses: 8.33028 	2024-03-02 19:42:46
+avg test scalars :: (loss 4.69383) (D1 0.21721) (EPE 5.09785) (meantime 0.01735)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:47
+524/600 losses: 7.84507 	2024-03-02 19:42:56
+avg test scalars :: (loss 6.58043) (D1 0.25724) (EPE 6.97942) (meantime 0.01911)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:42:57
+525/600 losses: 8.17664 	2024-03-02 19:43:07
+avg test scalars :: (loss 6.29156) (D1 0.23265) (EPE 6.67714) (meantime 0.01925)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:08
+526/600 losses: 8.03543 	2024-03-02 19:43:17
+avg test scalars :: (loss 5.25940) (D1 0.21965) (EPE 5.64805) (meantime 0.01564)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:18
+527/600 losses: 8.11387 	2024-03-02 19:43:27
+avg test scalars :: (loss 5.99606) (D1 0.24320) (EPE 6.38453) (meantime 0.01634)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:28
+528/600 losses: 8.43420 	2024-03-02 19:43:38
+avg test scalars :: (loss 7.50719) (D1 0.30918) (EPE 7.91507) (meantime 0.01587)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:38
+529/600 losses: 8.19226 	2024-03-02 19:43:48
+avg test scalars :: (loss 6.68817) (D1 0.27212) (EPE 7.10255) (meantime 0.01614)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:48
+530/600 losses: 8.45719 	2024-03-02 19:43:58
+avg test scalars :: (loss 7.33891) (D1 0.28456) (EPE 7.73343) (meantime 0.01477)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:43:59
+531/600 losses: 8.18701 	2024-03-02 19:44:08
+avg test scalars :: (loss 5.47693) (D1 0.23402) (EPE 5.86737) (meantime 0.01559)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:44:09
+532/600 losses: 8.55568 	2024-03-02 19:44:18
+avg test scalars :: (loss 4.38393) (D1 0.21698) (EPE 4.78832) (meantime 0.01623)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:44:19
+533/600 losses: 8.44955 	2024-03-02 19:44:28
+avg test scalars :: (loss 5.33508) (D1 0.24337) (EPE 5.72338) (meantime 0.01610)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:44:29
+534/600 losses: 8.00530 	2024-03-02 19:44:38
+avg test scalars :: (loss 6.23527) (D1 0.26620) (EPE 6.63235) (meantime 0.01690)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:44:39
+535/600 losses: 7.93339 	2024-03-02 19:44:49
+avg test scalars :: (loss 4.83790) (D1 0.20783) (EPE 5.24350) (meantime 0.01484)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:44:50
+536/600 losses: 7.94669 	2024-03-02 19:44:59
+avg test scalars :: (loss 5.84101) (D1 0.23071) (EPE 6.25322) (meantime 0.01741)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:00
+537/600 losses: 8.33425 	2024-03-02 19:45:09
+avg test scalars :: (loss 5.44049) (D1 0.22603) (EPE 5.84327) (meantime 0.01520)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:10
+538/600 losses: 8.29377 	2024-03-02 19:45:19
+avg test scalars :: (loss 5.80381) (D1 0.24088) (EPE 6.20660) (meantime 0.01612)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:20
+539/600 losses: 8.14562 	2024-03-02 19:45:30
+avg test scalars :: (loss 6.29589) (D1 0.28090) (EPE 6.69391) (meantime 0.01584)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:30
+540/600 losses: 8.10245 	2024-03-02 19:45:40
+avg test scalars :: (loss 5.88919) (D1 0.23727) (EPE 6.28506) (meantime 0.01463)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:41
+541/600 losses: 8.46434 	2024-03-02 19:45:50
+avg test scalars :: (loss 5.47265) (D1 0.24985) (EPE 5.86513) (meantime 0.01690)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:45:51
+542/600 losses: 8.55265 	2024-03-02 19:46:00
+avg test scalars :: (loss 7.33367) (D1 0.30606) (EPE 7.74173) (meantime 0.01550)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:01
+543/600 losses: 8.64978 	2024-03-02 19:46:10
+avg test scalars :: (loss 5.58660) (D1 0.23067) (EPE 5.99367) (meantime 0.01635)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:11
+544/600 losses: 8.31521 	2024-03-02 19:46:20
+avg test scalars :: (loss 5.89539) (D1 0.24336) (EPE 6.28421) (meantime 0.01967)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:21
+545/600 losses: 8.23303 	2024-03-02 19:46:31
+avg test scalars :: (loss 4.51888) (D1 0.23576) (EPE 4.91262) (meantime 0.01716)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:32
+546/600 losses: 8.30592 	2024-03-02 19:46:41
+avg test scalars :: (loss 5.32623) (D1 0.21809) (EPE 5.72517) (meantime 0.01443)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:42
+547/600 losses: 8.50133 	2024-03-02 19:46:51
+avg test scalars :: (loss 5.67757) (D1 0.20517) (EPE 6.05046) (meantime 0.01647)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:46:52
+548/600 losses: 8.18263 	2024-03-02 19:47:01
+avg test scalars :: (loss 6.36552) (D1 0.24550) (EPE 6.77217) (meantime 0.01416)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:02
+549/600 losses: 8.11330 	2024-03-02 19:47:12
+avg test scalars :: (loss 5.60323) (D1 0.24688) (EPE 6.00406) (meantime 0.01427)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:12
+550/600 losses: 8.29381 	2024-03-02 19:47:22
+avg test scalars :: (loss 5.55310) (D1 0.25121) (EPE 5.96166) (meantime 0.01445)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:23
+551/600 losses: 8.21849 	2024-03-02 19:47:32
+avg test scalars :: (loss 6.99217) (D1 0.23715) (EPE 7.39044) (meantime 0.01536)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:33
+552/600 losses: 8.57118 	2024-03-02 19:47:42
+avg test scalars :: (loss 6.92965) (D1 0.25308) (EPE 7.31550) (meantime 0.01632)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:43
+553/600 losses: 8.12019 	2024-03-02 19:47:52
+avg test scalars :: (loss 6.51950) (D1 0.25178) (EPE 6.90943) (meantime 0.01488)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:47:53
+554/600 losses: 8.14299 	2024-03-02 19:48:02
+avg test scalars :: (loss 5.55025) (D1 0.21623) (EPE 5.94820) (meantime 0.01516)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:03
+555/600 losses: 8.35045 	2024-03-02 19:48:12
+avg test scalars :: (loss 6.77553) (D1 0.27304) (EPE 7.17756) (meantime 0.01545)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:13
+556/600 losses: 8.13951 	2024-03-02 19:48:23
+avg test scalars :: (loss 6.32401) (D1 0.25082) (EPE 6.72319) (meantime 0.01600)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:23
+557/600 losses: 8.30193 	2024-03-02 19:48:33
+avg test scalars :: (loss 4.41000) (D1 0.21253) (EPE 4.81080) (meantime 0.01466)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:34
+558/600 losses: 8.33381 	2024-03-02 19:48:43
+avg test scalars :: (loss 5.41472) (D1 0.23810) (EPE 5.80938) (meantime 0.01736)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:44
+559/600 losses: 8.12047 	2024-03-02 19:48:53
+avg test scalars :: (loss 5.94051) (D1 0.22186) (EPE 6.33266) (meantime 0.01468)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:48:54
+560/600 losses: 8.15488 	2024-03-02 19:49:03
+avg test scalars :: (loss 6.00772) (D1 0.23087) (EPE 6.40809) (meantime 0.01842)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:04
+561/600 losses: 8.37096 	2024-03-02 19:49:13
+avg test scalars :: (loss 6.43264) (D1 0.28636) (EPE 6.84904) (meantime 0.01562)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:14
+562/600 losses: 8.12622 	2024-03-02 19:49:24
+avg test scalars :: (loss 7.57154) (D1 0.30002) (EPE 7.98508) (meantime 0.01835)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:25
+563/600 losses: 8.20700 	2024-03-02 19:49:34
+avg test scalars :: (loss 5.77642) (D1 0.23244) (EPE 6.18008) (meantime 0.01805)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:35
+564/600 losses: 8.73834 	2024-03-02 19:49:44
+avg test scalars :: (loss 5.79844) (D1 0.23818) (EPE 6.20304) (meantime 0.01842)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:45
+565/600 losses: 8.57539 	2024-03-02 19:49:55
+avg test scalars :: (loss 6.49331) (D1 0.25433) (EPE 6.89184) (meantime 0.01698)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:49:55
+566/600 losses: 8.02654 	2024-03-02 19:50:05
+avg test scalars :: (loss 4.54658) (D1 0.21774) (EPE 4.96189) (meantime 0.01576)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:06
+567/600 losses: 8.15515 	2024-03-02 19:50:15
+avg test scalars :: (loss 6.45191) (D1 0.25642) (EPE 6.85023) (meantime 0.01519)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:16
+568/600 losses: 8.28584 	2024-03-02 19:50:25
+avg test scalars :: (loss 5.76099) (D1 0.25214) (EPE 6.15980) (meantime 0.01500)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:26
+569/600 losses: 8.32117 	2024-03-02 19:50:35
+avg test scalars :: (loss 4.51563) (D1 0.24336) (EPE 4.92658) (meantime 0.01596)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:36
+570/600 losses: 8.12894 	2024-03-02 19:50:46
+avg test scalars :: (loss 5.43811) (D1 0.21987) (EPE 5.81293) (meantime 0.01491)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:46
+571/600 losses: 8.26054 	2024-03-02 19:50:56
+avg test scalars :: (loss 6.34762) (D1 0.25904) (EPE 6.74156) (meantime 0.01462)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:50:57
+572/600 losses: 8.40300 	2024-03-02 19:51:06
+avg test scalars :: (loss 6.20142) (D1 0.26963) (EPE 6.60395) (meantime 0.01599)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:07
+573/600 losses: 7.99652 	2024-03-02 19:51:16
+avg test scalars :: (loss 6.57785) (D1 0.26544) (EPE 6.96787) (meantime 0.01462)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:17
+574/600 losses: 8.42936 	2024-03-02 19:51:26
+avg test scalars :: (loss 5.45018) (D1 0.25915) (EPE 5.85136) (meantime 0.01513)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:27
+575/600 losses: 7.99554 	2024-03-02 19:51:36
+avg test scalars :: (loss 5.32178) (D1 0.22375) (EPE 5.71454) (meantime 0.01435)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:37
+576/600 losses: 8.20964 	2024-03-02 19:51:46
+avg test scalars :: (loss 6.30966) (D1 0.23523) (EPE 6.71265) (meantime 0.01657)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:47
+577/600 losses: 8.15764 	2024-03-02 19:51:56
+avg test scalars :: (loss 5.22779) (D1 0.23987) (EPE 5.62506) (meantime 0.01654)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:51:57
+578/600 losses: 8.18704 	2024-03-02 19:52:07
+avg test scalars :: (loss 6.43131) (D1 0.26642) (EPE 6.83597) (meantime 0.01582)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:07
+579/600 losses: 8.06425 	2024-03-02 19:52:17
+avg test scalars :: (loss 7.41967) (D1 0.27204) (EPE 7.80962) (meantime 0.01532)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:17
+580/600 losses: 8.52644 	2024-03-02 19:52:27
+avg test scalars :: (loss 4.88913) (D1 0.20498) (EPE 5.27827) (meantime 0.01557)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:28
+581/600 losses: 8.23749 	2024-03-02 19:52:37
+avg test scalars :: (loss 4.79519) (D1 0.22465) (EPE 5.18798) (meantime 0.02039)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:38
+582/600 losses: 8.57410 	2024-03-02 19:52:47
+avg test scalars :: (loss 6.56263) (D1 0.26039) (EPE 6.96973) (meantime 0.01648)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:48
+583/600 losses: 8.12426 	2024-03-02 19:52:58
+avg test scalars :: (loss 6.55727) (D1 0.24062) (EPE 6.94722) (meantime 0.01610)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:52:59
+584/600 losses: 8.58804 	2024-03-02 19:53:08
+avg test scalars :: (loss 5.87050) (D1 0.26947) (EPE 6.26633) (meantime 0.01690)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:09
+585/600 losses: 8.49705 	2024-03-02 19:53:18
+avg test scalars :: (loss 6.78904) (D1 0.27884) (EPE 7.18808) (meantime 0.01543)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:19
+586/600 losses: 8.12192 	2024-03-02 19:53:28
+avg test scalars :: (loss 6.32017) (D1 0.27184) (EPE 6.71935) (meantime 0.01428)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:29
+587/600 losses: 8.26485 	2024-03-02 19:53:38
+avg test scalars :: (loss 5.14727) (D1 0.22622) (EPE 5.54536) (meantime 0.01626)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:39
+588/600 losses: 8.05791 	2024-03-02 19:53:48
+avg test scalars :: (loss 5.76145) (D1 0.23295) (EPE 6.15656) (meantime 0.01600)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:49
+589/600 losses: 8.25035 	2024-03-02 19:53:59
+avg test scalars :: (loss 5.73107) (D1 0.24988) (EPE 6.12118) (meantime 0.01637)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:53:59
+590/600 losses: 8.46375 	2024-03-02 19:54:09
+avg test scalars :: (loss 5.62858) (D1 0.22943) (EPE 6.01263) (meantime 0.01654)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:54:10
+591/600 losses: 8.29243 	2024-03-02 19:54:19
+avg test scalars :: (loss 5.45004) (D1 0.23121) (EPE 5.84888) (meantime 0.01512)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:54:20
+592/600 losses: 8.26326 	2024-03-02 19:54:29
+avg test scalars :: (loss 6.67746) (D1 0.24839) (EPE 7.08388) (meantime 0.01654)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:54:30
+593/600 losses: 8.49417 	2024-03-02 19:54:39
+avg test scalars :: (loss 7.21759) (D1 0.26197) (EPE 7.61967) (meantime 0.01524)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:54:40
+594/600 losses: 8.49935 	2024-03-02 19:54:49
+avg test scalars :: (loss 5.66836) (D1 0.20473) (EPE 6.04718) (meantime 0.01492)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:54:50
+595/600 losses: 8.61848 	2024-03-02 19:55:00
+avg test scalars :: (loss 5.95158) (D1 0.25771) (EPE 6.37205) (meantime 0.01475)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:55:00
+596/600 losses: 8.29674 	2024-03-02 19:55:10
+avg test scalars :: (loss 5.95599) (D1 0.22295) (EPE 6.34098) (meantime 0.01657)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:55:10
+597/600 losses: 8.31710 	2024-03-02 19:55:20
+avg test scalars :: (loss 4.53029) (D1 0.21616) (EPE 4.92481) (meantime 0.01485)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:55:21
+598/600 losses: 8.19298 	2024-03-02 19:55:30
+avg test scalars :: (loss 4.77415) (D1 0.20399) (EPE 5.18721) (meantime 0.01492)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:55:31
+599/600 losses: 8.13709 	2024-03-02 19:55:40
+avg test scalars :: (loss 7.28922) (D1 0.32538) (EPE 7.69296) (meantime 0.01845)
+MAX epoch 507 total test error = 0.17733	2024-03-02 19:55:41
+MAX epoch 507 total test error = 0.17733 
+-end-	2024-03-02 19:55:41
